@@ -115,7 +115,7 @@ const FAQs = () => {
     return (
         <main>
             <Head>
-                <title>FAQs - Brave Dev World</title>
+                <title>FAQs - AmazHub</title>
                 <meta name="description" content="Get answers to common questions about Vasilkoff's full-stack mobile apps and web-development services, blockchain technology, outsourcing, and outstaffing in our comprehensive FAQ." />
             </Head>
 

@@ -19,12 +19,12 @@ link: "Heptapolis.com crypto ICO"
 picture: "/assets/portfolio/heptapolis.webp"
 url: "#"
 extra: "Closed"
-description: "Heptapolis.com is a crypto ICO project that received a comprehensive all-in-one solution from Brave Dev World CY Ltd. This solution included smart contract development, DApp creation, landing page design, social media management, as well as the creation of One Paper and White Papers. With Brave Dev World CY's expertise, Heptapolis.com was able to successfully launch their cryptocurrency ICO and achieve their fundraising goals."
+description: "Heptapolis.com is a crypto ICO project that received a comprehensive all-in-one solution from AmazHub CY Ltd. This solution included smart contract development, DApp creation, landing page design, social media management, as well as the creation of One Paper and White Papers. With AmazHub CY's expertise, Heptapolis.com was able to successfully launch their cryptocurrency ICO and achieve their fundraising goals."
 ---
-Brave Dev World was instrumental in the development and launch of Heptapolis.com, a cryptocurrency Initial Coin Offering (ICO) project. Our team provided a comprehensive suite of services designed to ensure the project's successful introduction to the market and achievement of its fundraising objectives.
+AmazHub was instrumental in the development and launch of Heptapolis.com, a cryptocurrency Initial Coin Offering (ICO) project. Our team provided a comprehensive suite of services designed to ensure the project's successful introduction to the market and achievement of its fundraising objectives.
 
 ## Overview of Heptapolis.com ICO Project
-Heptapolis.com's ICO was a multifaceted endeavor, requiring a wide range of technical and marketing solutions. Brave Dev World's role encompassed several critical areas:
+Heptapolis.com's ICO was a multifaceted endeavor, requiring a wide range of technical and marketing solutions. AmazHub's role encompassed several critical areas:
 
 ### Smart Contract Development
 A cornerstone of the Heptapolis ICO was the creation of a smart contract. Our blockchain experts developed a secure, efficient smart contract to facilitate the token sale, encompassing token allocation, fund collection, and investor rewards.
@@ -42,8 +42,8 @@ Recognizing the importance of a robust online presence, we implemented a strateg
 Our team was responsible for writing the One Paper and White Papers for Heptapolis.com. These documents detailed the project's objectives, technology, and tokenomics, playing a crucial role in communicating its value proposition to the community.
 
 ## The Outcome
-The comprehensive solutions provided by Brave Dev World facilitated a successful ICO launch for Heptapolis.com. Through our expertise in blockchain technology, web development, and digital marketing, we helped Heptapolis reach its fundraising goals and set a solid foundation for its future endeavors.
+The comprehensive solutions provided by AmazHub facilitated a successful ICO launch for Heptapolis.com. Through our expertise in blockchain technology, web development, and digital marketing, we helped Heptapolis reach its fundraising goals and set a solid foundation for its future endeavors.
 
-This project is a testament to Brave Dev World's capability to deliver end-to-end services for crypto ICOs. We are proud to have contributed to the success of Heptapolis.com and remain committed to supporting innovative blockchain projects.
+This project is a testament to AmazHub's capability to deliver end-to-end services for crypto ICOs. We are proud to have contributed to the success of Heptapolis.com and remain committed to supporting innovative blockchain projects.
 
-For organizations looking to embark on similar blockchain ventures, we invite you to learn more about our services and how we can assist in achieving your objectives. Please contact us through our [contact page](https://vasilkoff.com/contact-us) to discuss your project needs. At Brave Dev World, we're dedicated to harnessing the power of technology to drive your success.
+For organizations looking to embark on similar blockchain ventures, we invite you to learn more about our services and how we can assist in achieving your objectives. Please contact us through our [contact page](https://vasilkoff.com/contact-us) to discuss your project needs. At AmazHub, we're dedicated to harnessing the power of technology to drive your success.

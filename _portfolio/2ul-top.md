@@ -16,11 +16,11 @@ link: "2ul.top"
 picture: "/assets/portfolio/2ul-top-logo.webp"
 url: "https://2ul.top"
 extra: "Ongoing Project"
-description: "2ul.top is an open-source URL shortening service developed by Brave Dev World. The project showcases DevOps best practices and offers both free and premium URL shortening services."
+description: "2ul.top is an open-source URL shortening service developed by AmazHub. The project showcases DevOps best practices and offers both free and premium URL shortening services."
 
 ---
 
-2ul.top is a cutting-edge URL shortening service developed by Brave Dev World CY Ltd. The project exemplifies our commitment to DevOps best practices and innovative web development. Here are the key highlights and features of 2ul.top:
+2ul.top is a cutting-edge URL shortening service developed by AmazHub CY Ltd. The project exemplifies our commitment to DevOps best practices and innovative web development. Here are the key highlights and features of 2ul.top:
 
 ## DevOps Best Practices
 

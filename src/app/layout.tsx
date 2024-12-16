@@ -23,13 +23,13 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
   const pathname = headersList.get("x-pathname");
   const canonicalUrl = `${BASE_URL}${pathname}`;
   return {
-    title: `Brave Dev World - Full-stack Web & Mobile mobile apps and web-development Services`,
-    description: `Brave Dev World - Full-stack Web & Mobile mobile apps and web-development Services.`,
+    title: `AmazHub - Full-stack Web & Mobile mobile apps and web-development Services`,
+    description: `AmazHub - Full-stack Web & Mobile mobile apps and web-development Services.`,
     openGraph: {
       images: [],
     },
     creator: 'Benjamin',
-    publisher: 'Brave Dev World',
+    publisher: 'AmazHub',
     metadataBase: new URL(BASE_URL),
     robots: {
       index: true,

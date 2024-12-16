@@ -14,9 +14,9 @@ link: "iOS App"
 picture: "/assets/portfolio/camera-filters.webp"
 url: "#"
 extra: "Closed"
-description: "Camera Filters is a native iOS app developed by Brave Dev World that offers users a variety of filters to enhance their photos. With a user-friendly interface and a wide range of filter options, this app is perfect for anyone looking to add an extra touch of creativity to their photos."
+description: "Camera Filters is a native iOS app developed by AmazHub that offers users a variety of filters to enhance their photos. With a user-friendly interface and a wide range of filter options, this app is perfect for anyone looking to add an extra touch of creativity to their photos."
 ---
-The Camera Filters app developed by Brave Dev World for iOS is a powerful photo editing tool that allows users to apply various filters and effects to their photos in real-time. With the app's native code, users can quickly and easily add a wide range of filters to their photos, including vintage, black and white, sepia, and many others.
+The Camera Filters app developed by AmazHub for iOS is a powerful photo editing tool that allows users to apply various filters and effects to their photos in real-time. With the app's native code, users can quickly and easily add a wide range of filters to their photos, including vintage, black and white, sepia, and many others.
 
 One of the key features of the app is the ability to preview each filter in real-time, so users can see how their photos will look before applying the filter. This makes it easy for users to experiment with different filters and find the perfect one for their photo.
 

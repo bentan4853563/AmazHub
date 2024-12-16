@@ -1,8 +1,8 @@
 ---
 date: "2024-03-20T00:00:00Z"
-title: "Maxim Vasilkov: The Driving Force Behind Brave Dev World"
+title: "Maxim Vasilkov: The Driving Force Behind AmazHub"
 subtitle: "CBDO, System Architect"
-description: "Explore Maxim Vasilkov's journey from seasoned programmer to founder of Brave Dev World, highlighting his technical prowess, leadership skills, and innovative projects."
+description: "Explore Maxim Vasilkov's journey from seasoned programmer to founder of AmazHub, highlighting his technical prowess, leadership skills, and innovative projects."
 picture: "/assets/team/maxim-vasilkov.webp"
 time: "1 min"
 ---
@@ -31,7 +31,7 @@ Maxim's dedication to the tech community extends beyond project work; his contri
 
 **Recognition Through Collaboration and Competition**
 
-While modesty remains a core value, it's important to acknowledge the recognition the Brave Dev World team has earned through participation in prestigious technology hackathons. Our quiet dedication to innovation was highlighted when we secured 2nd place at the Fintech Hackathon 3.0 ([read more](https://vasilkoff.com/blog/boc-hackathon-fintech-3-0)) with a blockchain project, demonstrating our capability to develop cutting-edge financial technology solutions. Further participation in tech competitions, such as the BOC Hackathon 4.0 ([learn about our participation](https://vasilkoff.com/blog/boc-hackathon-4-0)) with an AI project, underscores our commitment to advancing technology across sectors.
+While modesty remains a core value, it's important to acknowledge the recognition the AmazHub team has earned through participation in prestigious technology hackathons. Our quiet dedication to innovation was highlighted when we secured 2nd place at the Fintech Hackathon 3.0 ([read more](https://vasilkoff.com/blog/boc-hackathon-fintech-3-0)) with a blockchain project, demonstrating our capability to develop cutting-edge financial technology solutions. Further participation in tech competitions, such as the BOC Hackathon 4.0 ([learn about our participation](https://vasilkoff.com/blog/boc-hackathon-4-0)) with an AI project, underscores our commitment to advancing technology across sectors.
 
 **AI-Bridge: Bridging Communication Gaps**
 

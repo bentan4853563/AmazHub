@@ -6,10 +6,10 @@ export default function HallOfFamePage() {
     return (
         <>
             <Head>
-                <title>Hall of Fame - Brave Dev World</title>
+                <title>Hall of Fame - AmazHub</title>
                 <meta
                     name="description"
-                    content="Recognizing the contributions of security researchers who help keep Brave Dev World secure by responsibly disclosing vulnerabilities."
+                    content="Recognizing the contributions of security researchers who help keep AmazHub secure by responsibly disclosing vulnerabilities."
                 />
             </Head>
 
@@ -18,16 +18,16 @@ export default function HallOfFamePage() {
                     <div className="heading">
                         <h1>Hall of Fame</h1>
                     </div>
-                    <p className="py-4">Welcome to the Brave Dev World Hall of Fame.</p>
+                    <p className="py-4">Welcome to the AmazHub Hall of Fame.</p>
                     <div className="my-6">
                         <p>
-                            At Brave Dev World, we are dedicated to providing a secure platform for all our users. We believe in the importance of collaboration with the security community and greatly appreciate the efforts of researchers who help us identify and address potential vulnerabilities.
+                            At AmazHub, we are dedicated to providing a secure platform for all our users. We believe in the importance of collaboration with the security community and greatly appreciate the efforts of researchers who help us identify and address potential vulnerabilities.
                         </p>
                         <p className="py-4">
                             This page is our way of recognizing those who have responsibly disclosed vulnerabilities to us, contributing to the ongoing security and reliability of our platform. If you’ve found a vulnerability, please feel free to reach out to us securely using our <a href="/pgp-key.txt" className="text-blue-500 underline">PGP key</a>.
                         </p>
                         <p>
-                            Thank you to all security researchers who help us keep Brave Dev World secure. We look forward to adding names here as we continue to work together with the community.
+                            Thank you to all security researchers who help us keep AmazHub secure. We look forward to adding names here as we continue to work together with the community.
                         </p>
                     </div>
                 </Container>

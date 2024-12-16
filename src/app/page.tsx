@@ -9,8 +9,8 @@ import PricesSection from "./_components/sections/PricesSection";
 import { Metadata, NextPage } from "next";
 import Script from "next/script";
 
-const homeTitle = `Brave Dev World | AI-Enhanced Web & Mobile Development Services`;
-const homeDescription = `Specializing in AI-enhanced mobile apps, DApps, and web solutions, Brave Dev World provides advanced development services for businesses seeking innovative web and mobile applications.`
+const homeTitle = `AmazHub | AI-Enhanced Web & Mobile Development Services`;
+const homeDescription = `Specializing in AI-enhanced mobile apps, DApps, and web solutions, AmazHub provides advanced development services for businesses seeking innovative web and mobile applications.`
 
 export const metadata: Metadata = {
   title: homeTitle,
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     title: homeTitle,
     description: homeDescription,
     url: "https://vasilkoff.com", type: "website", locale: "en-US",
-    images: [{ url: "https://vasilkoff.com/vasilkoff-cover.webp", width: 1200, height: 630, "alt": "Brave Dev World - AI-enhanced web and mobile development solutions" }]
+    images: [{ url: "https://vasilkoff.com/vasilkoff-cover.webp", width: 1200, height: 630, "alt": "AmazHub - AI-enhanced web and mobile development solutions" }]
   }
 
 };
@@ -33,7 +33,7 @@ const IndexPage: NextPage = () => {
       <Hero />
 
       <Container className="heading">
-        <h1 className="mt-4">Your Partner in Web & Mobile Application Development: Brave Dev World</h1>
+        <h1 className="mt-4">Your Partner in Web & Mobile Application Development: AmazHub</h1>
       </Container>
 
       <TeamMembers />
@@ -53,14 +53,14 @@ const IndexPage: NextPage = () => {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "Brave Dev World",
+            "name": "AmazHub",
             "headline": "AI-Enhanced Mobile & Web Development",
-            "legalName": "Brave Dev World",
-            "alternateName": "Brave Dev World CY Ltd",
+            "legalName": "AmazHub",
+            "alternateName": "AmazHub CY Ltd",
             "url": "https://vasilkoff.com",
             "logo": "https://vasilkoff.com/images/vasilkoff-logo-512x512.png",
             "image": "https://vasilkoff.com/vasilkoff-cover.webp",
-            "description": "Brave Dev World specializes in full-stack mobile and web development with a focus on AI, DApps, and blockchain solutions.",
+            "description": "AmazHub specializes in full-stack mobile and web development with a focus on AI, DApps, and blockchain solutions.",
             "foundingDate": "2005",
             "founder": {
               "@type": "Person",
@@ -128,7 +128,7 @@ const IndexPage: NextPage = () => {
                 "@type": "Service",
                 "name": "Mobile App Development",
                 "description": "Custom mobile applications with AI capabilities for iOS and Android.",
-                "provider": { "@type": "Organization", "name": "Brave Dev World" },
+                "provider": { "@type": "Organization", "name": "AmazHub" },
                 "areaServed": { "@type": "Place", "name": "Worldwide" },
                 "url": "https://vasilkoff.com/mobile-app-development"
               },
@@ -136,7 +136,7 @@ const IndexPage: NextPage = () => {
                 "@type": "Service",
                 "name": "Web Development",
                 "description": "Full-stack web development, including AI-enhanced and blockchain applications.",
-                "provider": { "@type": "Organization", "name": "Brave Dev World" },
+                "provider": { "@type": "Organization", "name": "AmazHub" },
                 "areaServed": { "@type": "Place", "name": "Worldwide" },
                 "url": "https://vasilkoff.com/web-development"
               }

@@ -152,7 +152,7 @@ Even if the IT business can’t handle a particular aspect internally, it should
 
 ### Would you like to talk with Us?
 
-At Brave Dev World, we’re more than just coders—we’re your partners in building successful products. Our team has the expertise to analyze your project, identify any gaps, and offer practical solutions that ensure your product doesn’t just work, but thrives in the market. Whether it’s refining your value proposition, ensuring scalability, or integrating the latest innovations, we’re here to help every step of the way.
+At AmazHub, we’re more than just coders—we’re your partners in building successful products. Our team has the expertise to analyze your project, identify any gaps, and offer practical solutions that ensure your product doesn’t just work, but thrives in the market. Whether it’s refining your value proposition, ensuring scalability, or integrating the latest innovations, we’re here to help every step of the way.
 
 **And it doesn’t stop there—we can even assist you in finding funding for your project. With so many grant opportunities available, we can help you navigate the options and secure the support you need to bring your innovative ideas to life.**
 

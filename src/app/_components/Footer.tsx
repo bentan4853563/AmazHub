@@ -1,28 +1,41 @@
 // src/app/_components/Footer.tsx
 
-import Link from 'next/link';
-//import { EnvelopeAtFill, TelephoneFill, Telegram, CardText, Whatsapp, GeoAltFill, GeoAlt, Instagram, Facebook } from 'react-bootstrap-icons';
+import Link from "next/link";
 import version from "../../../version.js";
-import Container from './Container';
-import { FOOTER_MENU } from '@/lib/constants';
-import CSE from './CSE';
-import { BsCardText, BsEnvelopeAtFill, BsGeoAlt, BsGeoAltFill, BsInstagram, BsTelegram, BsTelephoneFill, BsWhatsapp } from 'react-icons/bs';
-import { FaFacebook } from 'react-icons/fa';
+import Container from "./Container";
+import { FOOTER_MENU } from "@/lib/constants";
+import CSE from "./CSE";
+import {
+  BsCardText,
+  BsEnvelopeAtFill,
+  BsGeoAlt,
+  BsGeoAltFill,
+  BsInstagram,
+  BsTelegram,
+  BsTelephoneFill,
+  BsWhatsapp,
+} from "react-icons/bs";
+import { FaFacebook } from "react-icons/fa";
 
 const Footer = () => {
   return (
     <>
       <CSE />
       <footer className="pt-14 bg-black mt-20 lg:pt-[100px] text-light text-base">
-        <Container className="grid gap-y-10 gap-x-8 sm:grid-cols-1 lg:grid-cols-3 max-w-6xl mx-auto pb-24">
+        <Container className="grid gap-y-10 gap-x-12 sm:grid-cols-1 lg:grid-cols-3 max-w-6xl mx-auto pb-24">
           <div className="h-card">
             <div className="py-4">
-              <strong className="p-name">Brave Dev World Ltd</strong>: Expertise in AI-enhanced web/mobile apps, DApps, and Smart Contracts. Your partner for advanced blockchain and AI solutions.
+              <strong className="p-name">AmazHub (CY) Ltd</strong>: Expertise in
+              AI-enhanced web/mobile apps, DApps, and Smart Contracts. Your
+              partner for advanced blockchain and AI solutions.
             </div>
             <ul className="flex flex-col gap-3 font-bold">
               {FOOTER_MENU.map((item, index) => (
                 <li key={index}>
-                  <Link href={item.link} className="inline-block transition hover:text-shadow">
+                  <Link
+                    href={item.link}
+                    className="inline-block transition hover:text-shadow"
+                  >
                     {item.title}
                   </Link>
                 </li>
@@ -30,77 +43,142 @@ const Footer = () => {
             </ul>
           </div>
 
+          {/* New Singapore Location */}
           <div className="h-card">
             <ul className="flex flex-col gap-3 font-bold">
-              <li className="mb-3 text-lg font-extrabold text-white">Cyprus</li>
+              <li className="mb-3 text-lg font-extrabold text-white">
+                Singapore
+              </li>
             </ul>
             <ul>
-              <li className="p-org">Brave Dev World Ltd Reg. HE 344792</li>
+              <li className="p-org">AmazHub (CY) Ltd. 87654321</li>
+              <li className="transition hover:text-shadow ">
+                <BsTelephoneFill className="inline-block" />
+                &nbsp;
+                <a className="text-sm p-tel" href="tel:+6587654321">
+                  +6587654321
+                </a>
+              </li>
+              <li className="transition hover:text-shadow ">
+                <BsEnvelopeAtFill className="inline-block" />
+                &nbsp;
+                <a
+                  className="text-sm u-email"
+                  href="mailto:contact@amazhub.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="contact@amazhub.com (opens in a new tab)"
+                >
+                  contact@amazhub.com
+                </a>
+              </li>
+              <li className="transition hover:text-shadow ">
+                <BsGeoAltFill className="inline-block" />
+                &nbsp;
+                <a
+                  className="text-sm p-adr"
+                  href="https://goo.gl/maps/example"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Visit Example Address, Singapore on Google Maps (opens in a new tab)"
+                >
+                  <span className="p-street-address">
+                    Singapore Changi Airport. 2nd flr
+                  </span>{" "}
+                  <span className="p-postal-code">039393</span>
+                </a>
+              </li>
             </ul>
-            <ul className="my-2">
-              <li><BsCardText className="inline-block" />&nbsp;<span className="text-sm">VAT #CY10344792Y TIC 12344792A</span></li>
-              <li className="transition hover:text-shadow "><BsWhatsapp className="inline-block" />&nbsp;<a className="text-sm u-url" href="https://wa.link/drf9vm" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp for +35796253566 (opens in a new tab)">+35796253566</a></li>
-              <li className="transition hover:text-shadow "><BsTelephoneFill
-               className="inline-block" />&nbsp;<a className="text-sm p-tel" href="tel:+35799169229" target="_blank" rel="noopener noreferrer" aria-label="Call by phone +35799169229 (opens in a new tab)">+35799169229</a></li>
-              <li className="transition hover:text-shadow "><BsEnvelopeAtFill className="inline-block" />&nbsp;<a className="text-sm u-email" href="mailto:sp@vasilkoff.com" target="_blank" rel="noopener noreferrer" aria-label="sp@vasilkoff.com (opens in a new tab)">sp@vasilkoff.com</a></li>
-              <li className="transition hover:text-shadow "><BsGeoAltFill className="inline-block" />&nbsp;<a className="text-sm p-adr" href="https://g.page/Vasilkoff-com?share" target="_blank" rel="noopener noreferrer" aria-label="Visit Glastonos 12-14, 2nd Floor, Paphos 8046 on Google Maps (opens in a new tab)">
-                <span className="p-street-address">Glastonos 12-14, 2nd Floor</span>, <span className="p-locality">Paphos</span> <span className="p-postal-code">8046</span>
-              </a></li>
-            </ul>
-            <p className="text-xs my-2">
-              <BsGeoAlt className="inline-block" />&nbsp;<span className="p-adr">
-                <span className="p-name">ATHINODOROU BUSINESS CENTER</span> Office 402, Charalambou Mouskou & Grigori Afxentiou 20, <span className="p-locality">Paphos</span>, <span className="p-postal-code">8010</span>
-              </span>
-            </p>
-            <div className='text-xs my-2 text-shadow'>DUNS number: 534508024</div>
           </div>
 
+          {/* New Malaysia Location */}
           <div className="h-card">
             <ul className="flex flex-col gap-3 font-bold">
-              <li className="mb-3 text-lg font-extrabold text-white">UK</li>
+              <li className="mb-3 text-lg font-extrabold text-white">
+                Malaysia
+              </li>
             </ul>
             <ul>
-              <li className="p-org">Brave Dev World Reg. 07976437</li>
-              <li className="transition hover:text-shadow "><BsTelegram className="inline-block" />&nbsp;<a className="text-sm u-url" href="https://t.me/Vasilkoff" target="_blank" rel="noopener noreferrer" aria-label="Join Brave Dev World on Telegram (opens in a new tab)">
-                Vasilkoff
-              </a></li>
-              <li className="transition hover:text-shadow "><BsWhatsapp className="inline-block" />&nbsp;<a className="text-sm u-url" href="https://wa.me/61479140233" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp for +61479140233 (opens in a new tab)">+61479140233</a></li>
-              <li className="transition hover:text-shadow "><BsTelephoneFill className="inline-block" />&nbsp;<a className="text-sm p-tel" href="tel:+19295909246">+19295909246</a></li>
-              <li className="transition hover:text-shadow "><BsTelephoneFill className="inline-block" />&nbsp;<a className="text-sm p-tel" href="tel:+447458148224">+442045772478</a></li>
-              <li className="transition hover:text-shadow "><BsEnvelopeAtFill className="inline-block" />&nbsp;<a className="text-sm u-email" href="mailto:maxim@vasilkoff.com" target="_blank" rel="noopener noreferrer" aria-label="maxim@vasilkoff.com (opens in a new tab)">maxim@vasilkoff.com</a></li>
-              <li className="transition hover:text-shadow "><BsGeoAltFill className="inline-block" />&nbsp;<a className="text-sm p-adr" href="https://g.page/Vasilkoff-com?share" target="_blank" rel="noopener noreferrer" aria-label="Visit Glastonos 12-14, 2nd Floor, Paphos 8046 on Google Maps (opens in a new tab)">
-                <span className="p-street-address">20 Wenlock Road</span>, <span className="p-locality">London</span> <span className="p-postal-code">N1 7GU</span>
-              </a></li>
-              
+              <li className="p-org">AmazHub (CY) Ltd Reg. 12345678</li>
+              <li className="transition hover:text-shadow ">
+                <BsTelephoneFill className="inline-block" />
+                &nbsp;
+                <a className="text-sm p-tel" href="tel:+60123456789">
+                  +60123456789
+                </a>
+              </li>
+              <li className="transition hover:text-shadow ">
+                <BsEnvelopeAtFill className="inline-block" />
+                &nbsp;
+                <a
+                  className="text-sm u-email"
+                  href="mailto:info@vasilkoff.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="info@vasilkoff.com (opens in a new tab)"
+                >
+                  info@vasilkoff.com
+                </a>
+              </li>
+              <li className="transition hover:text-shadow ">
+                <BsGeoAltFill className="inline-block" />
+                &nbsp;
+                <a
+                  className="text-sm p-adr"
+                  href="https://goo.gl/maps/example"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Visit Example Address, Kuala Lumpur on Google Maps (opens in a new tab)"
+                >
+                  <span className="p-street-address">Example Address</span>,{" "}
+                  <span className="p-locality">Kuala Lumpur</span>{" "}
+                  <span className="p-postal-code">50000</span>
+                </a>
+              </li>
             </ul>
-            <div className='text-xs my-2 text-shadow'>DUNS number: 218272992</div>
           </div>
         </Container>
         <hr className="border-neutral-700" />
         <Container className="items-center max-w-6xl mx-auto justify-between text-center text-shadow md:flex py-8">
           <div className="flex items-center gap-8">
-            <Link href="/terms-conditions" className="transition hover:text-light">
+            <Link
+              href="/terms-conditions"
+              className="transition hover:text-light"
+            >
               Terms & Conditions
             </Link>
-            <Link href="/privacy-policy" className="transition hover:text-light">
+            <Link
+              href="/privacy-policy"
+              className="transition hover:text-light"
+            >
               Privacy Policy
             </Link>
           </div>
           <div className="my-8">
             <ul className="flex items-center gap-4 text-shadow">
               <li className="transition hover:text-light ">
-                <Link href="https://www.facebook.com/vasilkoff.software" target="_blank" rel="noopener noreferrer" aria-label="Facebook page (opens in a new tab)">
+                <Link
+                  href="https://www.facebook.com/vasilkoff.software"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Facebook page (opens in a new tab)"
+                >
                   <FaFacebook />
                 </Link>
               </li>
               <li className="transition hover:text-light ">
-                <Link href="https://www.instagram.com/vasilkoff/" target="_blank" rel="noopener noreferrer" aria-label="Instagram page (opens in a new tab)">
+                <Link
+                  href="https://www.instagram.com/vasilkoff/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Instagram page (opens in a new tab)"
+                >
                   <BsInstagram />
                 </Link>
               </li>
               <li className="text-xs">v.{version}</li>
               <li className="text-xs">
-                &copy; 2012-{new Date().getFullYear()} Brave Dev World
+                &copy; 2012-{new Date().getFullYear()} AmazHub
               </li>
             </ul>
           </div>

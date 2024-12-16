@@ -40,7 +40,7 @@ technologies:
     - "Slim"
     - "Figma"
 ---
-Brave Dev World is proud to have developed Morrow Hill VisionWorks, a project designed to streamline the corporate real estate process for global organizations. By integrating Vue.js and WordPress, we crafted a platform that enhances the efficiency of property search and lease negotiations for corporate tenants and property owners alike.
+AmazHub is proud to have developed Morrow Hill VisionWorks, a project designed to streamline the corporate real estate process for global organizations. By integrating Vue.js and WordPress, we crafted a platform that enhances the efficiency of property search and lease negotiations for corporate tenants and property owners alike.
 
 ## Project Insight: Morrow Hill VisionWorks
 Morrow Hill VisionWorks represents our approach to modernizing corporate real estate solutions. The platform is designed to simplify complex processes and provide users with a seamless online experience.
@@ -54,11 +54,11 @@ Morrow Hill VisionWorks represents our approach to modernizing corporate real es
 Morrow Hill VisionWorks stands out for its ability to offer a streamlined approach to corporate real estate management. The platform's innovative features are designed to meet the specific needs of corporate tenants and property owners, ensuring a smooth and efficient lease negotiation process.
 
 ### Future-Proof and Scalable Solutions
-In developing Morrow Hill VisionWorks, Brave Dev World focused on creating a solution that is not only effective in addressing current real estate challenges but also scalable to accommodate future growth and changes in the market.
+In developing Morrow Hill VisionWorks, AmazHub focused on creating a solution that is not only effective in addressing current real estate challenges but also scalable to accommodate future growth and changes in the market.
 
 ### Commitment to Excellence
-This project underscores Brave Dev World's dedication to leveraging cutting-edge technologies like Vue.js and WordPress to deliver solutions that drive efficiency and enhance user experiences in various industries.
+This project underscores AmazHub's dedication to leveraging cutting-edge technologies like Vue.js and WordPress to deliver solutions that drive efficiency and enhance user experiences in various industries.
 
 Morrow Hill VisionWorks is a testament to our ability to understand and address the unique challenges faced by businesses in the corporate real estate sector. It highlights our commitment to delivering bespoke solutions that contribute to our clients' success.
 
-For businesses seeking to enhance their online presence or develop specialized digital solutions, Brave Dev World offers the expertise and dedication necessary to achieve your goals. To learn more about how we can assist in your web development project, please reach out through our [contact page](https://vasilkoff.com/contact-us). Let’s work together to create digital platforms that support your business objectives.
+For businesses seeking to enhance their online presence or develop specialized digital solutions, AmazHub offers the expertise and dedication necessary to achieve your goals. To learn more about how we can assist in your web development project, please reach out through our [contact page](https://vasilkoff.com/contact-us). Let’s work together to create digital platforms that support your business objectives.

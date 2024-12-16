@@ -40,10 +40,10 @@ technologies:
     - "Slim"
     - "Figma"
 ---
-Brave Dev World is proud to introduce Paykolo, a groundbreaking online banking solution designed to simplify global financial operations for businesses and individuals alike. Developed with cutting-edge technologies such as Ruby, SLIM, React, and Laravel, Paykolo offers an array of features that redefine online banking by making it more accessible, efficient, and secure.
+AmazHub is proud to introduce Paykolo, a groundbreaking online banking solution designed to simplify global financial operations for businesses and individuals alike. Developed with cutting-edge technologies such as Ruby, SLIM, React, and Laravel, Paykolo offers an array of features that redefine online banking by making it more accessible, efficient, and secure.
 
 ## Overview: Paykolo - Online Banking Reimagined
-Paykolo represents Brave Dev World's venture into the fintech space, showcasing our ability to create innovative web and app solutions that meet the evolving needs of the financial industry.
+Paykolo represents AmazHub's venture into the fintech space, showcasing our ability to create innovative web and app solutions that meet the evolving needs of the financial industry.
 
 ### Key Features:
 - **Global Online Banking**: Provides users with a secure platform for managing their financial transactions, including pay-ins and pay-outs, across borders with ease.
@@ -56,9 +56,9 @@ Leveraging the robustness of Laravel and the flexibility of React, coupled with 
 ### Empowering Businesses and Individuals:
 By addressing common challenges in the fintech sector, such as high transaction fees and complex banking requirements, Paykolo stands out as a solution that genuinely understands and meets the needs of its users. Whether for individual savers or global enterprises, Paykolo is designed to make financial management more straightforward and more efficient.
 
-### A Testament to Brave Dev World's Expertise:
-The development of Paykolo underscores Brave Dev World's commitment to leveraging technology for innovation. It exemplifies our expertise in crafting digital solutions that not only solve current challenges but also anticipate future trends in the fintech industry.
+### A Testament to AmazHub's Expertise:
+The development of Paykolo underscores AmazHub's commitment to leveraging technology for innovation. It exemplifies our expertise in crafting digital solutions that not only solve current challenges but also anticipate future trends in the fintech industry.
 
-For businesses and individuals seeking a reliable and efficient online banking solution, Paykolo represents a significant leap forward. Brave Dev World continues to explore and develop digital solutions that drive progress and efficiency in various industries.
+For businesses and individuals seeking a reliable and efficient online banking solution, Paykolo represents a significant leap forward. AmazHub continues to explore and develop digital solutions that drive progress and efficiency in various industries.
 
 To learn more about how Paykolo can transform your financial operations or to discuss a potential project, please reach out to us via our [contact page](https://vasilkoff.com/contact-us). Let's innovate together and redefine what's possible in the digital world.

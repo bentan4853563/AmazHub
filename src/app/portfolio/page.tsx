@@ -16,7 +16,7 @@ export async function generateMetadata({ searchParams }: any) {
   const pathname = headersList.get("x-pathname") ?? '';
   const canonicalUrl = `${BASE_URL}${pathname}${category ? '?category=' + category : ''}`;
 
-  const pageTitle = category ? `Portfolio - ${category} - Brave Dev World` : 'Portfolio - Brave Dev World';
+  const pageTitle = category ? `Portfolio - ${category} - AmazHub` : 'Portfolio - AmazHub';
   const pageDescription = category 
     ? `Explore Vasilkoff's ${category} portfolio: A showcase of web & mobile apps, ML projects, and innovative blockchain solutions. Witness our tech prowess firsthand!`
     : `Explore Vasilkoff's portfolio: A showcase of web & mobile apps, ML projects, and innovative blockchain solutions. Witness our tech prowess firsthand!`;
@@ -26,7 +26,7 @@ export async function generateMetadata({ searchParams }: any) {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "name": "Portfolio",
-    "description": "A collection of projects developed by Brave Dev World",
+    "description": "A collection of projects developed by AmazHub",
     "hasPart": portfolios.map(portfolio => ({
       "@type": "CreativeWork",
       "name": portfolio.title,
@@ -35,7 +35,7 @@ export async function generateMetadata({ searchParams }: any) {
       "description": portfolio.description,
       "creator": {
         "@type": "Organization",
-        "name": "Brave Dev World",
+        "name": "AmazHub",
         "url": BASE_URL
       }
     }))
@@ -50,7 +50,7 @@ export async function generateMetadata({ searchParams }: any) {
       images: [
         {
           url: `${BASE_URL}/portfolio/portfolio.webp`,
-          alt: 'Brave Dev World Portfolio'
+          alt: 'AmazHub Portfolio'
         }
       ],
       url: canonicalUrl

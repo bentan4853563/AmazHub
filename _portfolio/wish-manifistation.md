@@ -23,4 +23,4 @@ One of the key features of the app is the Yamatech® tool, which was inspired by
 
 The app also utilizes advanced laws of attraction that are not commonly known, but are essential for successful manifestation. To ensure the app was effective, we thoroughly researched and tested these laws of attraction during the development process.
 
-Overall, our team at Brave Dev World was thrilled to work on this unique and inspiring project. We combined our technical expertise with the client's knowledge of metaphysical practices to create an app that empowers users to manifest their dreams and desires.
+Overall, our team at AmazHub was thrilled to work on this unique and inspiring project. We combined our technical expertise with the client's knowledge of metaphysical practices to create an app that empowers users to manifest their dreams and desires.

@@ -1,7 +1,7 @@
 ---
 id: 5
 picture: "/assets/services/dapps-development.webp"
-altImage: "Dapps Development from Brave Dev World"
+altImage: "Dapps Development from AmazHub"
 title: "Full Stack DApps Development"
 subtitle: "Discover the power of decentralized applications"
 description: By choosing our Full Stack DApps Development Services, your business will have access to a comprehensive range of solutions tailored to your unique needs. Our services cover the entire spectrum of DApps development, from ideation and design to development, testing, deployment, and ongoing maintenance, ensuring that your organization reaps the benefits of decentralized applications.

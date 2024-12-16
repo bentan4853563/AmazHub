@@ -11,9 +11,9 @@ link: "Mobile App"
 picture: "/assets/portfolio/custom-box.png"
 url: "#"
 extra: ""
-description: "This is a custom iOS app created by Brave Dev World for a Manhattan-based company. It simplifies the process of getting pricing for custom-sized boxes and enables salespeople to get up-to-date pricing quickly and easily. The app is available for delivery in Brooklyn, New Jersey, and Manhattan."
+description: "This is a custom iOS app created by AmazHub for a Manhattan-based company. It simplifies the process of getting pricing for custom-sized boxes and enables salespeople to get up-to-date pricing quickly and easily. The app is available for delivery in Brooklyn, New Jersey, and Manhattan."
 ---
-Brave Dev World had the opportunity to collaborate with a Manhattan-based company, BandC IND., to develop Custom Box, a tailored iOS application designed to streamline their custom-sized box pricing process. This project reflects our commitment to creating practical mobile app solutions that address specific business challenges.
+AmazHub had the opportunity to collaborate with a Manhattan-based company, BandC IND., to develop Custom Box, a tailored iOS application designed to streamline their custom-sized box pricing process. This project reflects our commitment to creating practical mobile app solutions that address specific business challenges.
 
 ## Overview of Custom Box App
 Custom Box serves as a digital tool for BandC IND.’s sales team, enabling them to obtain quick and accurate pricing for custom-sized boxes. Developed with the user in mind, the app is intuitive, simplifying the sales process and enhancing the efficiency of obtaining up-to-date pricing.
@@ -28,9 +28,9 @@ Custom Box serves as a digital tool for BandC IND.’s sales team, enabling them
 Our development process involved close collaboration with BandC IND. to ensure that the app met their precise needs. From initial concept through to launch, we focused on creating an app that not only streamlined the pricing process but also supported BandC IND.’s sales strategy.
 
 ### Training and Integration
-Post-development, Brave Dev World provided comprehensive training to ensure that BandC IND.’s sales team could maximize the app’s potential. Additionally, we ensured that Custom Box was fully compatible with the company’s existing systems, facilitating a smooth integration into their daily operations.
+Post-development, AmazHub provided comprehensive training to ensure that BandC IND.’s sales team could maximize the app’s potential. Additionally, we ensured that Custom Box was fully compatible with the company’s existing systems, facilitating a smooth integration into their daily operations.
 
 ### Impact
-The Custom Box app has proven to be a valuable asset for BandC IND., enhancing their competitive edge by providing a more efficient pricing process. This project is a testament to Brave Dev World’s ability to deliver custom mobile app solutions that directly contribute to our clients' success.
+The Custom Box app has proven to be a valuable asset for BandC IND., enhancing their competitive edge by providing a more efficient pricing process. This project is a testament to AmazHub’s ability to deliver custom mobile app solutions that directly contribute to our clients' success.
 
-For businesses seeking to leverage technology to solve specific challenges, Custom Box exemplifies the potential impact of such solutions. We invite you to reach out to us via our [contact page](https://vasilkoff.com/contact-us) to discuss how we can assist in developing a customized app to meet your unique business needs. Brave Dev World is dedicated to harnessing our expertise in mobile app development to support your business objectives.
+For businesses seeking to leverage technology to solve specific challenges, Custom Box exemplifies the potential impact of such solutions. We invite you to reach out to us via our [contact page](https://vasilkoff.com/contact-us) to discuss how we can assist in developing a customized app to meet your unique business needs. AmazHub is dedicated to harnessing our expertise in mobile app development to support your business objectives.

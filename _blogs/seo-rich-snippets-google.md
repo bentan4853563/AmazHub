@@ -70,7 +70,7 @@ Implementing structured data can seem complex at first, but with practice, you'l
 
 ---
 
-While implementing structured data is something you can definitely do on your own, it might be helpful to have professionals on your side, especially if your website is complex or if you have specific SEO goals in mind. At [Brave Dev World](https://vasilkoff.com/), we have a team of experts who can help you implement structured data effectively to boost your search engine visibility and performance. Feel free to reach out to us for a consultation!
+While implementing structured data is something you can definitely do on your own, it might be helpful to have professionals on your side, especially if your website is complex or if you have specific SEO goals in mind. At [AmazHub](https://vasilkoff.com/), we have a team of experts who can help you implement structured data effectively to boost your search engine visibility and performance. Feel free to reach out to us for a consultation!
 
 ## Common Mistakes to Avoid When Implementing Structured Data
 
@@ -96,4 +96,4 @@ Structured data is not a set-it-and-forget-it kind of thing. Search engines freq
 
 Implementing structured data on your website can significantly enhance your SEO and improve your visibility on search engine results pages. It's a vital tool in your digital marketing toolkit, enabling you to communicate effectively with search engines and help them understand your content. Remember, choosing the correct schema, avoiding common mistakes, and keeping up with changes are essential for successful implementation.
 
-While structured data can seem daunting at first, the benefits it brings to your SEO strategy are well worth the effort. Don't hesitate to reach out to SEO professionals like us at [Brave Dev World](/contact-us) for help. We're here to ensure your structured data strategy is robust, relevant, and effective. Happy structuring!
+While structured data can seem daunting at first, the benefits it brings to your SEO strategy are well worth the effort. Don't hesitate to reach out to SEO professionals like us at [AmazHub](/contact-us) for help. We're here to ensure your structured data strategy is robust, relevant, and effective. Happy structuring!

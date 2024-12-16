@@ -1,9 +1,4 @@
 import Container from "../Container";
-import MemberMaxim from "@/app/_components/sections/members/Maxim";
-import MemberNikol from "@/app/_components/sections/members/Nikol";
-import MemberIryna from "@/app/_components/sections/members/Iryna";
-import MemberSimon from "@/app/_components/sections/members/Simon";
-import MemberAnastasia from "@/app/_components/sections/members/Anastasia";
 import TeamMember from "./TeamMember";
 
 const memberList = [
@@ -22,7 +17,7 @@ const memberList = [
   {
     name: "Haoqiang Lai",
     position: "Systems Architect",
-    email: "leonsandes816@gmail.com",
+    email: "laihaoqiang34@gmail.com",
     picture: "/assets/team/haoqiang-lai.jpg",
   },
   {

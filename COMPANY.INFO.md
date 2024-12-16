@@ -1,12 +1,12 @@
 # Vasilkoff.com
-Website of Brave Dev World. built with NextJS and hosted on Vercel.
+Website of AmazHub. built with NextJS and hosted on Vercel.
 
-# Brave Dev World Ltd
+# AmazHub Ltd
 Expertise in AI-enhanced web/mobile apps, DApps, and Smart Contracts. Your partner for advanced blockchain and AI solutions.
 
 # Companie's regirstration and offices
 ## Registration in Cyprus
-Brave Dev World Ltd Reg. HE 344792
+AmazHub Ltd Reg. HE 344792
  VAT #CY10344792Y TIC 12344792A
  +35796253566
  +35799169229
@@ -17,7 +17,7 @@ Brave Dev World Ltd Reg. HE 344792
  ATHINODOROU BUSINESS CENTER Office 402 Charalambou Mouskou & Grigori Afxentiou 20 Paphos 8010
 
 ## Registration in UK:
-Brave Dev World Reg. 07976437
+AmazHub Reg. 07976437
 207 Regent Street, London W1B 3HH
 20 Wenlock Road, London  N1 7GU
 United Kingdom
@@ -48,15 +48,15 @@ Founder, Systems Architect
 Contacts: maxim@vasilkoff.com, +35796253566
 
 
-# Brave Dev World: Web and Apps Development Services
+# AmazHub: Web and Apps Development Services
 
 ## Competitive Rates and Pricing for Superior Service
 
-At Brave Dev World, we offer competitive rates and pricing models tailored to provide superior service in mobile apps and web-development. Our expertise spans both outsourcing and outstaffing, offering flexible solutions to meet your unique needs.
+At AmazHub, we offer competitive rates and pricing models tailored to provide superior service in mobile apps and web-development. Our expertise spans both outsourcing and outstaffing, offering flexible solutions to meet your unique needs.
 
 ### Outsourcing Services
 
-Outsourcing with Brave Dev World gives you access to specialized expertise and established teams, along with the flexibility to scale resources as needed.
+Outsourcing with AmazHub gives you access to specialized expertise and established teams, along with the flexibility to scale resources as needed.
 
 #### Benefits:
 
@@ -98,9 +98,9 @@ Outstaffing allows you to maintain high control over project management and team
 
 
 
-# Brave Dev World: Services
+# AmazHub: Services
 
-At Brave Dev World, we offer a range of technology services designed to provide tangible results and a competitive advantage to our clients. Our services span various domains including mobile apps and web-development, project management, consulting, and more.
+At AmazHub, we offer a range of technology services designed to provide tangible results and a competitive advantage to our clients. Our services span various domains including mobile apps and web-development, project management, consulting, and more.
 
 ## UI/UX Design
 
@@ -150,7 +150,7 @@ At Brave Dev World, we offer a range of technology services designed to provide 
 
 
 
-# Brave Dev World: Our Projects
+# AmazHub: Our Projects
 
 ## SmartAIChats.com
 

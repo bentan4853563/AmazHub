@@ -6,7 +6,7 @@ description: "Introducing smrtAI.top: The game-changing solution that empowers b
 picture: "/assets/blog/smrtAI.webp"
 time: "1 min"
 ---
-We are thrilled to announce that Brave Dev World Cy Ltd, a trusted provider of mobile apps and web-development services, is embarking on an exciting new project - [smrtAI.top](https://smrtAI.top)
+We are thrilled to announce that AmazHub Cy Ltd, a trusted provider of mobile apps and web-development services, is embarking on an exciting new project - [smrtAI.top](https://smrtAI.top)
 
 As part of our commitment to delivering innovative solutions, we are developing **smrtAI.top**, a comprehensive platform that revolutionizes the way businesses engage with their customers through live chat and chatbot technology. With smrtAI.top, we aim to empower businesses with intelligent, easy-to-use, and customizable chatbots that enhance customer interactions and drive growth.
 

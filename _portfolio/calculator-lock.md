@@ -20,7 +20,7 @@ url: "https://play.google.com/store/apps/details?id=com.photo.vault.calculator"
 extra: ""
 description: "Calculator Lock is an Android app that enables users to hide photos, videos, apps and files using a disguised calculator icon for added privacy."
 ---
-Brave Dev World introduces the Calculator Lock app, a privacy-centric solution available for Android devices. This application is designed to enhance user privacy by allowing the concealment of photos, videos, apps, and files behind a cleverly disguised calculator icon. It represents Brave Dev World's commitment to providing innovative mobile app solutions that address real-world needs.
+AmazHub introduces the Calculator Lock app, a privacy-centric solution available for Android devices. This application is designed to enhance user privacy by allowing the concealment of photos, videos, apps, and files behind a cleverly disguised calculator icon. It represents AmazHub's commitment to providing innovative mobile app solutions that address real-world needs.
 
 ## Calculator Lock: Privacy Through Innovation
 Calculator Lock offers a suite of features aimed at safeguarding personal information:
@@ -36,9 +36,9 @@ Calculator Lock offers a suite of features aimed at safeguarding personal inform
 - **Break-in Alert**: Notifies users of any break-in attempts by snapping a photo of the intruder.
 
 ### Developed for Android Users
-Available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.photo.vault.calculator), Calculator Lock exemplifies Brave Dev World's expertise in Android app development, demonstrating our ability to blend functionality with user-friendly design.
+Available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.photo.vault.calculator), Calculator Lock exemplifies AmazHub's expertise in Android app development, demonstrating our ability to blend functionality with user-friendly design.
 
-### Brave Dev World: At the Forefront of Mobile Privacy Solutions
+### AmazHub: At the Forefront of Mobile Privacy Solutions
 The development of the Calculator Lock app underscores our dedication to creating mobile applications that not only meet user expectations but also provide essential privacy protections. This project is a testament to our innovative approach to mobile app development, focusing on creating practical, secure solutions for the digital age.
 
-Discover more about Calculator Lock and how it can enhance your privacy by visiting the app's [Google Play Store page](https://play.google.com/store/apps/details?id=com.photo.vault.calculator). This initiative is one of the many ways Brave Dev World continues to push the boundaries of mobile app development, ensuring users can navigate the digital world with confidence and security.
+Discover more about Calculator Lock and how it can enhance your privacy by visiting the app's [Google Play Store page](https://play.google.com/store/apps/details?id=com.photo.vault.calculator). This initiative is one of the many ways AmazHub continues to push the boundaries of mobile app development, ensuring users can navigate the digital world with confidence and security.

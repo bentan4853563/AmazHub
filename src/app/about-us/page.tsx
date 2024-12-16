@@ -6,7 +6,7 @@ import { BASE_URL } from '@/lib/constants';
 
 export const metadata = {
     title: 'About Us - Vasilkoff',
-    description: "Discover Brave Dev World's commitment to providing blockchain and AI solutions from our bases in Cyprus and Ukraine, as well as globally through remote team members. Our projects like NFTTRX, SMRT16, SMRTSGN, SmartAIChats, Bella Chess, and Calculator Lock exemplify our innovative approach to technology.",
+    description: "Discover AmazHub's commitment to providing blockchain and AI solutions from our bases in Cyprus and Ukraine, as well as globally through remote team members. Our projects like NFTTRX, SMRT16, SMRTSGN, SmartAIChats, Bella Chess, and Calculator Lock exemplify our innovative approach to technology.",
     alternates: { canonical: `${BASE_URL}/about-us` },
 };
 
@@ -21,7 +21,7 @@ export default function AboutUsPage() {
                     </header>
                     <article>
                         <p className="mb-6">
-                            At Brave Dev World, our seasoned team, anchored in Cyprus' Paphos and Ukraine's Cherkasy and Kropyvnytskyi, with a global network of remote professionals, focuses on crafting tailored technology solutions. Our work spans blockchain and AI innovations, illustrated by projects such as <Link href="/portfolio/nfttrx">NFTTRX</Link> for NFT-based intellectual property protection, and <Link href="/portfolio/smrt16">SMRT16</Link>, a marketing DApp on the Polygon blockchain.
+                            At AmazHub, our seasoned team, anchored in  Singapore Changi Airport. 2nd flr, with a global network of remote professionals, focuses on crafting tailored technology solutions. Our work spans blockchain and AI innovations, illustrated by projects such as <Link href="/portfolio/nfttrx">NFTTRX</Link> for NFT-based intellectual property protection, and <Link href="/portfolio/smrt16">SMRT16</Link>, a marketing DApp on the Polygon blockchain.
                         </p>
                         <p className="mb-6">
                             Our initiatives, like <Link href="/portfolio/smrtsgn">SMRTSGN</Link> for document verification, <Link href="/portfolio/smartAI">SmartAIChats</Link> for AI-driven customer support, <Link href="/portfolio/bellachess">Bella Chess</Link> for the classic game's enthusiasts, and <Link href="/portfolio/calculator-lock">Calculator Lock</Link> for personal privacy, reflect our ethos of user-centered development.
@@ -30,7 +30,7 @@ export default function AboutUsPage() {
                             🇺🇦 Our support for Ukraine underscores our dedication to our colleagues and communities, embodying the values of integrity, resilience, and unity.
                         </p>
                         <p className="mb-6">
-                            Brave Dev World transcends the traditional IT role, seeking to forge lasting partnerships. Our collective expertise positions us to tackle complex challenges with tailored strategies that resonate with our clients' ambitions.
+                            AmazHub transcends the traditional IT role, seeking to forge lasting partnerships. Our collective expertise positions us to tackle complex challenges with tailored strategies that resonate with our clients' ambitions.
                         </p>
                         <p className="mb-6">
                             Adapting to the tech world's fluidity, we're committed to continual learning and employing state-of-the-art technologies. Our aim is to be proactive contributors, equipping clients to remain competitive and visionary.
@@ -42,7 +42,7 @@ export default function AboutUsPage() {
                             Our diverse projects demonstrate our capability to address intricate technical landscapes, striving to surpass client expectations with every venture.
                         </p>
                         <p>
-                            If you’re seeking an IT partner for your next venture, Brave Dev World is prepared to assist. Whether innovating within your industry or charting new markets, we’re ready to embark on this creative journey with you. Reach out to discover how our expertise can serve your business.
+                            If you’re seeking an IT partner for your next venture, AmazHub is prepared to assist. Whether innovating within your industry or charting new markets, we’re ready to embark on this creative journey with you. Reach out to discover how our expertise can serve your business.
                         </p>
                     </article>
                 </div>

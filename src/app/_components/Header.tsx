@@ -27,8 +27,8 @@ const Header = (props: any) => {
         <div className={`flex items-center justify-between py-5 lg:py-0`}>
           <Link href="/">
             <Image
-              src="/images/brave_logo.png"
-              alt="Brave Dev World logo"
+              src="/images/letter-logo.png"
+              alt="AmazHub logo"
               className="h-12"
               width={200}
               height={40}

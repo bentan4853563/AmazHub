@@ -19,7 +19,7 @@ export default function TermsAndConditionsPage() {
                 <p>Last updated: March 18, 2024</p>
                 <div className="pb-12 my-10 space-y-2">
                     <p>
-                        Welcome to Brave Dev World, the website representing Brave Dev World CY Ltd and Brave Dev World, companies registered in Cyprus and the United Kingdom. Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the Brave Dev World website (the "Service") operated by Brave Dev World CY Ltd and Brave Dev World ("us", "we", or "our").
+                        Welcome to AmazHub, the website representing AmazHub CY Ltd and AmazHub, companies registered in Cyprus and the United Kingdom. Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the AmazHub website (the "Service") operated by AmazHub CY Ltd and AmazHub ("us", "we", or "our").
                     </p>
                     <p>
                         Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
@@ -29,11 +29,11 @@ export default function TermsAndConditionsPage() {
                     </p>
                     <h2>Intellectual Property</h2>
                     <p>
-                        All content on this website, including but not limited to text, images, graphics, logos, and software, is the property of Brave Dev World CY Ltd, Brave Dev World, or its content suppliers and is protected by international copyright laws.
+                        All content on this website, including but not limited to text, images, graphics, logos, and software, is the property of AmazHub CY Ltd, AmazHub, or its content suppliers and is protected by international copyright laws.
                     </p>
                     <h2>Permitted Use</h2>
                     <p>
-                        You are granted a limited, non-exclusive, non-transferable, and revocable license to access and use the Service for personal, non-commercial purposes only. You may not modify, distribute, transmit, or create derivative works based on the content of this website without the express written consent of Brave Dev World CY Ltd and Brave Dev World.
+                        You are granted a limited, non-exclusive, non-transferable, and revocable license to access and use the Service for personal, non-commercial purposes only. You may not modify, distribute, transmit, or create derivative works based on the content of this website without the express written consent of AmazHub CY Ltd and AmazHub.
                     </p>
                     <h2>Prohibited Use</h2>
                     <p>
@@ -41,7 +41,7 @@ export default function TermsAndConditionsPage() {
                     </p>
                     <h2>External Links</h2>
                     <p>
-                        Our Service may contain links to third-party websites or services that are not owned or controlled by Brave Dev World CY Ltd and Brave Dev World. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party websites or services. You further acknowledge and agree that Brave Dev World CY Ltd and Brave Dev World shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any such websites or services.
+                        Our Service may contain links to third-party websites or services that are not owned or controlled by AmazHub CY Ltd and AmazHub. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party websites or services. You further acknowledge and agree that AmazHub CY Ltd and AmazHub shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any such websites or services.
                     </p>
                     <h2>Analytics</h2>
                     <p>
@@ -57,7 +57,7 @@ export default function TermsAndConditionsPage() {
                     </p>
                     <h2>Disclaimer</h2>
                     <p>
-                        The information on this website is provided on an "as is" basis. Brave Dev World CY Ltd and Brave Dev World make no representations or warranties of any kind, express or implied, as to the operation of this website, the information, content, materials, or products included on this website. To the full extent permissible by applicable law, Brave Dev World CY Ltd and Brave Dev World disclaim all warranties, express or implied, including but not limited to, implied warranties of merchantability and fitness for a particular purpose. Brave Dev World CY Ltd and Brave Dev World will not be liable for any damages of any kind arising from the use of this website, including but not limited to direct, indirect, incidental, punitive, and consequential damages.
+                        The information on this website is provided on an "as is" basis. AmazHub CY Ltd and AmazHub make no representations or warranties of any kind, express or implied, as to the operation of this website, the information, content, materials, or products included on this website. To the full extent permissible by applicable law, AmazHub CY Ltd and AmazHub disclaim all warranties, express or implied, including but not limited to, implied warranties of merchantability and fitness for a particular purpose. AmazHub CY Ltd and AmazHub will not be liable for any damages of any kind arising from the use of this website, including but not limited to direct, indirect, incidental, punitive, and consequential damages.
                     </p>
                     <h2>Governing Law</h2>
                     <p>

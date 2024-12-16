@@ -19,7 +19,7 @@ export default async function ServicePage({ params }: any) {
 
   const content = await markdownToHtml(service.content || "");
   const canonicalUrl = `${BASE_URL}/services/${slug}`;
-  const pageDescription = service.description || "Learn more about our specialized services at Brave Dev World.";
+  const pageDescription = service.description || "Learn more about our specialized services at AmazHub.";
   const serviceImage = service.picture || `${BASE_URL}/assets/default-service-image.webp`;
 
   return (
@@ -44,7 +44,7 @@ export default async function ServicePage({ params }: any) {
             image: serviceImage,
             provider: {
               "@type": "Organization",
-              name: "Brave Dev World",
+              name: "AmazHub",
               url: BASE_URL,
             },
           }),
@@ -65,8 +65,8 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
   }
 
   const canonicalUrl = `${BASE_URL}/services/${slug}`;
-  const pageTitle = service.title || "Brave Dev World Services";
-  const pageDescription = service.description || "Learn more about our specialized services at Brave Dev World.";
+  const pageTitle = service.title || "AmazHub Services";
+  const pageDescription = service.description || "Learn more about our specialized services at AmazHub.";
   const serviceImage = service.picture || `${BASE_URL}/assets/ai-development.webp`;
 
   return {
@@ -83,7 +83,7 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
           url: serviceImage,
           width: 1200,
           height: 630,
-          alt: `${service.title} - Brave Dev World`,
+          alt: `${service.title} - AmazHub`,
         },
       ],
     },

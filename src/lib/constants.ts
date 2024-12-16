@@ -75,13 +75,13 @@ export const HOME_OG_IMAGE_URL =
 export const CONTACT_US_JSON_LD = {
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  "name": "Contact Brave Dev World",
-  "description": "This page contains contact details for Brave Dev World",
+  "name": "Contact AmazHub",
+  "description": "This page contains contact details for AmazHub",
   "url": "https://vasilkoff.com/contact-us",
   "mainEntity": {
       "@type": "Organization",
-      "name": "Brave Dev World",
-      "headline": "Brave Dev World",
+      "name": "AmazHub",
+      "headline": "AmazHub",
       "address": {
           "@type": "PostalAddress",
           "streetAddress": "Glastonos 12-14",

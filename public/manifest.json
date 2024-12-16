@@ -1,11 +1,11 @@
 {
-    "name": "Brave Dev World",
+    "name": "AmazHub",
     "short_name": "Vasilkoff",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
-    "description": "Brave Dev World: Full-stack mobile and web development with AI and blockchain solutions.",
+    "description": "AmazHub: Full-stack mobile and web development with AI and blockchain solutions.",
     "icons": [
       {
         "src": "/android-icon-36x36.png",

@@ -36,7 +36,7 @@ export default async function BlogPage({ params }: any) {
     },
     publisher: {
       "@type": "Organization",
-      name: "Brave Dev World",
+      name: "AmazHub",
       logo: {
         "@type": "ImageObject",
         url: `${BASE_URL}/images/vasilkoff-logo-512x512.png`,
@@ -89,7 +89,7 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
           url: blogImage,
           width: 1200,
           height: 630,
-          alt: `${blog.title} - Brave Dev World`,
+          alt: `${blog.title} - AmazHub`,
         },
       ],
     },

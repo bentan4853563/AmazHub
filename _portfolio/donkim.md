@@ -16,7 +16,7 @@ url: "https://donkim.com/"
 extra: ""
 description: "The website is dedicated to podiatrist Dr. Kim and his walking cure program, which offers a natural solution for leg pain. It also showcases his books on healthy living and the K Wellness Center, which offers natural treatments for chronic conditions."
 ---
-Brave Dev World had the privilege of collaborating with Dr. Don Kim to develop a website that serves as a comprehensive online resource for his innovative walking cure program and holistic health philosophy. Utilizing WordPress, we crafted a site that not only encapsulates Dr. Kim's approach to health and wellness but also provides visitors with insightful information on natural remedies for leg pain, healthy living books, and the services offered at the K Wellness Center.
+AmazHub had the privilege of collaborating with Dr. Don Kim to develop a website that serves as a comprehensive online resource for his innovative walking cure program and holistic health philosophy. Utilizing WordPress, we crafted a site that not only encapsulates Dr. Kim's approach to health and wellness but also provides visitors with insightful information on natural remedies for leg pain, healthy living books, and the services offered at the K Wellness Center.
 
 ## Project Insight: Dr. Don Kim's Website
 The essence of this project was to create a platform that reflects Dr. Kim’s dedication to promoting natural solutions for chronic conditions and overall wellness. Our goal was to ensure that the website was informative, accessible, and engaging for visitors seeking alternative health solutions.
@@ -34,6 +34,6 @@ A pivotal aspect of the site is the detailed presentation of Dr. Kim’s walking
 In developing the website, priority was given to creating a responsive design that ensures compatibility across all devices and optimizing the site for search engines to maximize visibility. Clear navigation paths and calls to action were strategically placed to encourage exploration and engagement.
 
 ### The Result
-The completion of Dr. Don Kim's website stands as a testament to Brave Dev World's ability to deliver tailored web solutions that align with our clients' visions. It represents our commitment to producing websites that not only meet the functional needs of our clients but also serve as a valuable resource for their audiences.
+The completion of Dr. Don Kim's website stands as a testament to AmazHub's ability to deliver tailored web solutions that align with our clients' visions. It represents our commitment to producing websites that not only meet the functional needs of our clients but also serve as a valuable resource for their audiences.
 
-For those interested in exploring how Brave Dev World can enhance your online presence or create a specialized web solution for your unique needs, we invite you to reach out through our [contact page](https://vasilkoff.com/contact-us). Whether you aim to share your professional expertise, like Dr. Kim, or engage with your community in new ways, Brave Dev World is here to bring your digital aspirations to life.
+For those interested in exploring how AmazHub can enhance your online presence or create a specialized web solution for your unique needs, we invite you to reach out through our [contact page](https://vasilkoff.com/contact-us). Whether you aim to share your professional expertise, like Dr. Kim, or engage with your community in new ways, AmazHub is here to bring your digital aspirations to life.

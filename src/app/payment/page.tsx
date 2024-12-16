@@ -10,7 +10,7 @@ export default function PaymentPage() {
                 <title>Payments to Vasilkoff</title>
                 <meta
                     name="description"
-                    content="Streamline payments to Brave Dev World and request invoices for prepayments or services. Convenient online payment platform for secure transactions."
+                    content="Streamline payments to AmazHub and request invoices for prepayments or services. Convenient online payment platform for secure transactions."
                 />
             </Head>
 
@@ -19,9 +19,9 @@ export default function PaymentPage() {
                     <div className='heading'>
                         <h1>Payments to Vasilkoff</h1>
                     </div>
-                    <p className='py-4'>Welcome to the Payments page of Brave Dev World, your trusted provider of software outsourcing services. Here, you can conveniently make payments for invoices and request invoices for prepayments or other predefined services. We strive to streamline your financial transactions and provide a secure and hassle-free payment experience.</p>
+                    <p className='py-4'>Welcome to the Payments page of AmazHub, your trusted provider of software outsourcing services. Here, you can conveniently make payments for invoices and request invoices for prepayments or other predefined services. We strive to streamline your financial transactions and provide a secure and hassle-free payment experience.</p>
                     <div className="my-6">
-                        <p>On this page, you can easily handle your financial interactions with Brave Dev World. Make use of the quick access below to jump straight to the section you need:</p>
+                        <p>On this page, you can easily handle your financial interactions with AmazHub. Make use of the quick access below to jump straight to the section you need:</p>
                         <div className="flex justify-center space-x-4 mt-4">
                             <a href="#making-payments" className="btn btn-primary">Make a Payment</a>
                             <a href="#requesting-invoices" className="btn btn-secondary">Request an Invoice</a>
@@ -45,10 +45,10 @@ export default function PaymentPage() {
                             <p>Once your payment is successfully processed, you will receive a confirmation email with the payment details and a receipt for your records. Our system ensures the highest level of security and data protection to safeguard your payment information.</p>
                         </div>
                         <div id="usd-account-details" className="pt-8 lg:text-left">
-                            <h2>USD Account Details for Brave Dev World.</h2>
+                            <h2>USD Account Details for AmazHub.</h2>
                             <div className='pl-4'>
                                 <ul>
-                                    <li><strong>Account Holder:</strong> Brave Dev World</li>
+                                    <li><strong>Account Holder:</strong> AmazHub</li>
                                     <li><strong>ACH and Wire Routing Number:</strong> 026073150</li>
                                     <li><strong>Account Number:</strong> 8310802378</li>
                                     <li><strong>Account Type:</strong> Checking</li>
@@ -102,7 +102,7 @@ export default function PaymentPage() {
                         </p>
                         <a href="/contact-us" className="btn btn-primary mt-4 py-2 px-6 rounded-md text-white" role="button">Get in Touch</a>
                         <p className='py-4 mt-4 text-lg'>
-                            Thank you for considering Brave Dev World for your software outsourcing needs. Your business is important to us, and we're committed to delivering outstanding service and ensuring a smooth and secure experience.
+                            Thank you for considering AmazHub for your software outsourcing needs. Your business is important to us, and we're committed to delivering outstanding service and ensuring a smooth and secure experience.
                         </p>
                     </div>
                 </Container>

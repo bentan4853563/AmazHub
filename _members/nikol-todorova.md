@@ -1,12 +1,12 @@
 ---
 date: "2024-03-20T00:00:00Z"
-title: "Nikol Todorova: The Art of UI/UX Design at Brave Dev World CY Ltd"
+title: "Nikol Todorova: The Art of UI/UX Design at AmazHub CY Ltd"
 subtitle: "UI/UX Designer"
-description: "Highlighting Nikol Todorova's contributions as a UI/UX Designer at Brave Dev World CY Ltd, with a focus on her major projects and design philosophy."
+description: "Highlighting Nikol Todorova's contributions as a UI/UX Designer at AmazHub CY Ltd, with a focus on her major projects and design philosophy."
 picture: "/assets/team/nicol-papazova.webp"
 time: "1 min"
 ---
-Nikol Todorova, the gifted UI/UX Designer at Brave Dev World CY Ltd, is renowned for her ability to seamlessly blend user needs, technical constraints, and business objectives into visually stunning and intuitive designs. 
+Nikol Todorova, the gifted UI/UX Designer at AmazHub CY Ltd, is renowned for her ability to seamlessly blend user needs, technical constraints, and business objectives into visually stunning and intuitive designs. 
 
 She played a significant role in bringing [Libi & Daughters](/portfolio/libi-n-daughters) to the digital space. The luxury cosmetics company boasts of an elegantly designed website and native mobile applications for iOS and Android, thanks to her aesthetic insights and design acumen. 
 
@@ -20,7 +20,7 @@ She lent her talents to the [Calculator Lock](/portfolio/calculator-lock) Androi
 
 Nikol’s contribution to [Bella Chess](/portfolio/bellachess), a classic board game, stands as a testament to her versatility. She managed to combine various technologies like Flutter, Web3, DApp, blockchain, smart contract, NFT, and AI into a visually pleasing and engaging game for both iOS and Android.
 
-Nikol Todorova is truly a crucial piece of the Brave Dev World CY Ltd team, leveraging her UI/UX expertise to bring innovative digital solutions to life.
+Nikol Todorova is truly a crucial piece of the AmazHub CY Ltd team, leveraging her UI/UX expertise to bring innovative digital solutions to life.
 
 > "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 

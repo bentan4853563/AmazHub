@@ -43,7 +43,7 @@ technologies:
     - "Slim"
     - "Figma"
 ---
-Brave Dev World is pleased to present the Big Mail Project, an initiative that enhances the traditional experience of sending postcards by integrating it into the digital realm. Developed with a focus on user convenience and reliability, this project reflects our commitment to providing practical web solutions.
+AmazHub is pleased to present the Big Mail Project, an initiative that enhances the traditional experience of sending postcards by integrating it into the digital realm. Developed with a focus on user convenience and reliability, this project reflects our commitment to providing practical web solutions.
 
 ## The Big Mail Project: Bridging Digital Convenience with Traditional Postcards
 The Big Mail Project offers a straightforward web solution for users looking to send postcards online, embodying the essence of simplifying global communications.
@@ -60,7 +60,7 @@ Utilizing a robust array of technologies, the Big Mail Project is built to ensur
 ### Simplified Online Postcard Sending
 The Big Mail Project facilitates a user-friendly service that allows for the easy creation and sending of postcards, aiming to keep the process as intuitive as possible while maintaining a global outreach.
 
-### Brave Dev World's Approach to Web Development
-This project underscores Brave Dev World's approach to tackling web development challenges through the application of industry-standard technologies and best practices. The Big Mail Project serves as an example of how we can adapt traditional activities to fit the digital age, prioritizing ease of use and accessibility.
+### AmazHub's Approach to Web Development
+This project underscores AmazHub's approach to tackling web development challenges through the application of industry-standard technologies and best practices. The Big Mail Project serves as an example of how we can adapt traditional activities to fit the digital age, prioritizing ease of use and accessibility.
 
-Discover more about the Big Mail Project by visiting [BigMail.io](https://bigmail.io/). This project is one among many that showcase Brave Dev World's dedication to creating web solutions that cater to the needs of users, emphasizing functionality and user experience.
+Discover more about the Big Mail Project by visiting [BigMail.io](https://bigmail.io/). This project is one among many that showcase AmazHub's dedication to creating web solutions that cater to the needs of users, emphasizing functionality and user experience.

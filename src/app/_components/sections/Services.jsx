@@ -16,7 +16,7 @@ export default function Services() {
                     <h2>Partner with Us for High-Impact Outsourcing Solutions</h2>
                 </div>
                 <div id="details" className={`cursor-pointer mb-8 text-md max-w-3xl mx-auto ${openDetails ? '' : 'line-clamp-2'}`} onClick={() => { setOpenDetails(!openDetails) }}>
-                    <p>Discover how Brave Dev World can elevate your project from concept to reality. Our website isn’t just a showcase of services but a portal to:</p>
+                    <p>Discover how AmazHub can elevate your project from concept to reality. Our website isn’t just a showcase of services but a portal to:</p>
                     <ul>
                         <li><strong>Expertise:</strong> Learn about our roots in blockchain software development and AI applications, and how this expertise can benefit your business.</li>
                         <li><strong>Our Team:</strong> Meet the minds behind our innovations - from our Managing Director to our AI Engineers and Design Directors.</li>

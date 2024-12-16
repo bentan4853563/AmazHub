@@ -14,7 +14,7 @@ link: "printmyphotos.com"
 picture: "/assets/portfolio/printmyphotos.webp"
 url: "https://printmyphotos.com.cy/"
 extra: ""
-description: "Print My Photos: Brave Dev World's web development mastery. Transforming the online presence of Print My Photos for a seamless and visually captivating experience."
+description: "Print My Photos: AmazHub's web development mastery. Transforming the online presence of Print My Photos for a seamless and visually captivating experience."
 technologies: 
     - "Laravel"
     - "React"
@@ -38,7 +38,7 @@ technologies:
     - "Slim"
     - "Figma"
 ---
-Print My Photos, developed by Brave Dev World, offers a streamlined online platform for photo printing, showcasing our web development expertise. This service simplifies the process of turning digital memories into physical keepsakes, with a focus on user-friendly navigation and high-quality printing options.
+Print My Photos, developed by AmazHub, offers a streamlined online platform for photo printing, showcasing our web development expertise. This service simplifies the process of turning digital memories into physical keepsakes, with a focus on user-friendly navigation and high-quality printing options.
 
 **Key Features:**
 
@@ -48,7 +48,7 @@ Print My Photos, developed by Brave Dev World, offers a streamlined online platf
 
 **Built on Trusted Technologies:**
 
-Utilizing Laravel for backend services and React for a responsive front-end, Print My Photos represents Brave Dev World's commitment to employing robust technologies for optimal user experience.
+Utilizing Laravel for backend services and React for a responsive front-end, Print My Photos represents AmazHub's commitment to employing robust technologies for optimal user experience.
 
 **For Everyone:**
 
@@ -56,7 +56,7 @@ Whether for personal use, gifting, or decorative purposes, Print My Photos cater
 
 **Our Promise:**
 
-At Brave Dev World, we're dedicated to providing solutions that enhance online experiences. Print My Photos is just one example of how we merge technical prowess with practical needs.
+At AmazHub, we're dedicated to providing solutions that enhance online experiences. Print My Photos is just one example of how we merge technical prowess with practical needs.
 
 **Engage with Us:**
 

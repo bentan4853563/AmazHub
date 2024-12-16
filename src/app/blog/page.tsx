@@ -7,7 +7,7 @@ import { Blog } from "@/interfaces/docTypes";
 import { BlogsList } from "@/app/_components/posts/BlogsList";
 import { BASE_URL } from "@/lib/constants";
 
-const title = "Brave Dev World Blogs - Insights on Web Development, Blockchain, and AI";
+const title = "AmazHub Blogs - Insights on Web Development, Blockchain, and AI";
 const description = "Explore Vasilkoff's blog. Dive into insights, trends, and stay ahead with expert articles about web-development, blockchain, and AI.";
 
 type Params = {
@@ -41,7 +41,7 @@ export function generateMetadata(): Metadata {
           url: primaryImage,
           width: 1200,
           height: 630,
-          alt: "Brave Dev World Blog Cover Image",
+          alt: "AmazHub Blog Cover Image",
         },
       ],
     },

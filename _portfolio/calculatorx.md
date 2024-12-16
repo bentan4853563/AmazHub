@@ -12,7 +12,7 @@ link: "iOS and Android apps"
 picture: "/assets/portfolio/calculatorx.webp"
 url: "https://apps.apple.com/us/app/hidex-hide-photo-video-vault/id1577144445"
 extra: ""
-description: "HideX: Swift app by Brave Dev World. Securely hide photos, videos, and contacts. Advanced features for ultimate privacy in an elegant design."
+description: "HideX: Swift app by AmazHub. Securely hide photos, videos, and contacts. Advanced features for ultimate privacy in an elegant design."
 ---
 **Enhance Privacy with HideX: Your Ultimate Photo & Video Vault on Swift**
 
@@ -20,7 +20,7 @@ Elevate your privacy with HideX, a native app meticulously crafted on Swift. Thi
 
 **Innovative Features for Privacy Excellence:**
 
-1. **Swift Language Expertise:** HideX is built on Swift, showcasing Brave Dev World's commitment to cutting-edge app development for optimal privacy.
+1. **Swift Language Expertise:** HideX is built on Swift, showcasing AmazHub's commitment to cutting-edge app development for optimal privacy.
 2. **Secure Vault Creation:** Generate a password-protected vault for both genuine and deceptive photos and videos, ensuring maximum privacy.
 3. **Icon Concealment:** HideX offers the most secure private gallery with discreet app icon concealment, fortifying your privacy.
 4. **Photo & Video Lock:** Safeguard your visual content with a dedicated vault, accessible only through the correct numeric PIN set by you.
@@ -59,4 +59,4 @@ Prices may vary. Subscriptions will be charged to your credit card through your 
 
 **Conclusion:**
 
-Experience ultimate privacy with HideX. Brave Dev World's dedication to Swift development sets a new standard for secure photo and video vaults. Safeguard your visual content and contacts with HideX today.
+Experience ultimate privacy with HideX. AmazHub's dedication to Swift development sets a new standard for secure photo and video vaults. Safeguard your visual content and contacts with HideX today.

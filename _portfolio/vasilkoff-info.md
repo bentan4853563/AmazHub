@@ -18,7 +18,7 @@ url: "https://vasilkoff.info/"
 extra: ""
 description: "A web app with AI support chat bot for our vasilkoff.com website, provides accurate, prompt, and intelligent user support. It's a part of our research efforts in the field of AI."
 ---
-[Vasilkoff.info](https://vasilkoff.info/) is not just another web application; it's a benchmark in AI-enhanced web and app development, crafted meticulously by the innovative minds at Brave Dev World.
+[Vasilkoff.info](https://vasilkoff.info/) is not just another web application; it's a benchmark in AI-enhanced web and app development, crafted meticulously by the innovative minds at AmazHub.
 
 ## Harnessing NextJS and ReactJS for Dynamic Web Solutions
 
@@ -40,4 +40,4 @@ Vasilkoff.info is more than a project; it's a testimony to our expertise in AI a
 
 ### Explore Vasilkoff.info
 
-We invite you to explore the innovative world of [Vasilkoff.info](https://vasilkoff.info/). Experience firsthand how AI can transform the web experience and stay tuned for more trailblazing projects from Brave Dev World."
+We invite you to explore the innovative world of [Vasilkoff.info](https://vasilkoff.info/). Experience firsthand how AI can transform the web experience and stay tuned for more trailblazing projects from AmazHub."

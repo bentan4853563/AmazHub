@@ -1,7 +1,7 @@
 ---
 id: 6
 picture: "/assets/services/ai-development.webp"
-altImage: "AI Development from Brave Dev World"
+altImage: "AI Development from AmazHub"
 title: "AI & Machine Learning Development"
 subtitle: "Discover the power of AI and machine learning"
 description: "Your business can have access to cutting-edge solutions tailored to your needs, ensuring you remain at the forefront of innovation"

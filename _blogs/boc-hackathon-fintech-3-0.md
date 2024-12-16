@@ -1,12 +1,12 @@
 ---
 date: "2023-09-20T00:00:00Z"
-title: "A Remarkable Achievement: Brave Dev World at BOC Hackathon Fintech 3.0"
+title: "A Remarkable Achievement: AmazHub at BOC Hackathon Fintech 3.0"
 subtitle: "BOC Hackathon Fintech 3.0: 2nd prise for Team Vasilkoff"
 description: "Team Vasilkoff's innovative solution, SmartWallet, secures the 2nd prize at the prestigious BOC Hackathon Fintech 3.0 event in Cyprus."
 picture: "/assets/blog/boc-hackathon3.webp"
 time: "2 min"
 ---
-When it comes to cutting-edge Fintech solutions, Brave Dev World has always been at the forefront, as our latest accomplishment at the BOC Hackathon Fintech 3.0 proves. This event, hosted from October 18th to 20th at the IDEA Innovation Center in Nicosia, brought together coders and startups to develop Minimum Viable Products (MVPs) for Fintech innovation.
+When it comes to cutting-edge Fintech solutions, AmazHub has always been at the forefront, as our latest accomplishment at the BOC Hackathon Fintech 3.0 proves. This event, hosted from October 18th to 20th at the IDEA Innovation Center in Nicosia, brought together coders and startups to develop Minimum Viable Products (MVPs) for Fintech innovation.
 
 Dr. Demetris Antoniades, the leader of the Digitally Enhanced Urban Environments (DARE) MRG, participated as a mentor at the hackathon and shared his extensive expertise. The Bank of Cyprus facilitated the teams by offering its upgraded open banking APIs and SDK, enabling integration of innovative features such as secure payment processing or data utilization services.
 

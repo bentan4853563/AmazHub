@@ -16,7 +16,7 @@ export default function Reviews() {
           </div>
           <div className="flex-grow">
             <div className="text-lg text-gray-600 italic mb-4">
-              “I have been working with Brave Dev World for a long time now and I am very happy with the professionalism and experience their team has. I strongly recommend them as we build a long lasting relationship based on trust”
+              “I have been working with AmazHub for a long time now and I am very happy with the professionalism and experience their team has. I strongly recommend them as we build a long lasting relationship based on trust”
             </div>
             <div className="font-semibold text-gray-800">Neofytos Siakos</div>
             <div>
@@ -42,7 +42,7 @@ export default function Reviews() {
           </div>
           <div className="flex-grow">
             <div className="text-lg text-gray-600 italic mb-4">
-              I’ve challenged Brave Dev World several times over the past couple of years with a variety of projects. They have always pulled through for me and gone above and beyond to get the project done. It’s hard to find consistent quality work, Brave Dev World hits the nail on the head, every time. I wish I had found them a couple of years earlier.
+              I’ve challenged AmazHub several times over the past couple of years with a variety of projects. They have always pulled through for me and gone above and beyond to get the project done. It’s hard to find consistent quality work, AmazHub hits the nail on the head, every time. I wish I had found them a couple of years earlier.
             </div>
             <div className="font-semibold text-gray-800">Justin Farrell</div>
             <div>

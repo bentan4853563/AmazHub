@@ -37,7 +37,7 @@ technologies:
     - "Figma"
 
 ---
-Brave Dev World is proud to have developed The Multifamily Group's website, a project designed to modernize the process of multi-housing asset transactions. By integrating advanced web development techniques and leveraging the capabilities of WordPress, we created a platform that serves as a comprehensive resource for real estate professionals in Dallas, Texas.
+AmazHub is proud to have developed The Multifamily Group's website, a project designed to modernize the process of multi-housing asset transactions. By integrating advanced web development techniques and leveraging the capabilities of WordPress, we created a platform that serves as a comprehensive resource for real estate professionals in Dallas, Texas.
 
 ## Project Details: The Multifamily Group Website
 The Multifamily Group's website was conceptualized to facilitate easy access to multi-housing market insights, showcasing our expertise in creating solutions that enhance the efficiency of real estate transactions.
@@ -54,8 +54,8 @@ Our collaboration with The Multifamily Group underscores our commitment to lever
 In developing The Multifamily Group's website, our focus was on creating a solution that is not only effective in meeting current market demands but also scalable to accommodate future growth and technological advancements in the real estate sector.
 
 ### Commitment to Excellence
-This project exemplifies Brave Dev World's dedication to delivering high-quality web development services. Our collaboration with The Multifamily Group highlights our ability to understand and meet the unique needs of the commercial real estate industry through innovative technology solutions.
+This project exemplifies AmazHub's dedication to delivering high-quality web development services. Our collaboration with The Multifamily Group highlights our ability to understand and meet the unique needs of the commercial real estate industry through innovative technology solutions.
 
-The Multifamily Group's website project is a testament to our expertise in creating digital platforms that support and enhance business operations. For businesses looking to develop a website or digital solution tailored to their industry-specific needs, Brave Dev World offers the technical knowledge and creative vision necessary to achieve success.
+The Multifamily Group's website project is a testament to our expertise in creating digital platforms that support and enhance business operations. For businesses looking to develop a website or digital solution tailored to their industry-specific needs, AmazHub offers the technical knowledge and creative vision necessary to achieve success.
 
 To learn more about our services or to discuss your project, please contact us through our [contact page](https://vasilkoff.com/contact-us). Let’s work together to create digital solutions that drive your business forward.

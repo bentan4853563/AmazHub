@@ -2,7 +2,7 @@
 id: 1
 date: "2024-03-20T00:00:00Z"
 picture: "/assets/services/design.webp"
-altImage: "Design from Brave Dev World"
+altImage: "Design from AmazHub"
 title: "UI/UX Design"
 subtitle: "Crafting Exceptional UI/UX Design: Elevating User Experience Across Platforms"
 description: "Simplify your digital journey with our expert UI/UX design services. 

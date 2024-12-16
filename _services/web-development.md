@@ -2,7 +2,7 @@
 id: 2
 date: "2024-03-20T00:00:00Z"
 picture: "/assets/services/web-development.webp"
-altImage: "Web Development from Brave Dev World"
+altImage: "Web Development from AmazHub"
 title: "Web Development"
 subtitle":"Unleashing Business Potential with Web Development: From Concept to Digital Success"
 description: "Discover how our expertise in front-end and back-end technologies, CMS, WordPress, and major eCommerce platforms like Magento and Shopify can drive growth in your business."

@@ -52,7 +52,7 @@ In an era where time is of the essence and immediate response is paramount, havi
 4. **Friendly for Every Pocket**: Begin with our complimentary Live Chat widget. As your needs grow, our affordable upgrades are just a click away, ensuring you always get value for your money.
 5. **Never Miss a Beat**: In today’s multi-platform digital landscape, reaching your customer everywhere is key. With SmartAIChats, you can seamlessly integrate your chat across various channels, ensuring your brand is always accessible.
 
-![SmartAIChats Logo](https://firebasestorage.googleapis.com/v0/b/vasilkoffcom-1532682115746.appspot.com/o/smartaichats-logo.png?alt=media&token=7d3602be-eabd-4b66-aa14-d10b9dbdea9d)
+![SmartAIChats Logo](https://firebasestorage.googleapis.com/v0/b/vasilkoffcom-1532682115746.appspot.com/o/smartaichats-letter-logo.png?alt=media&token=7d3602be-eabd-4b66-aa14-d10b9dbdea9d)
 
 **How Businesses are Benefiting: Top Use Cases**
 

@@ -43,7 +43,7 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
     return notFound();
   }
 
-  const pageTitle = `${article.title} - Brave Dev World Portfolio`;
+  const pageTitle = `${article.title} - AmazHub Portfolio`;
   const pageDescription = article.description || '';
 
   return {

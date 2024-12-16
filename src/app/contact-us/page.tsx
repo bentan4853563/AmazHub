@@ -9,8 +9,8 @@ import BugReportForm from "@/app/_components/BugReportForm";
 import { BASE_URL } from '@/lib/constants';
 
 export async function generateMetadata() {
-    const pageTitle = "Contact Us - Brave Dev World";
-    const pageDescription = "Contact Brave Dev World for mobile app and web development inquiries, partnerships, careers, and more. Reach out to our expert team today.";
+    const pageTitle = "Contact Us - AmazHub";
+    const pageDescription = "Contact AmazHub for mobile app and web development inquiries, partnerships, careers, and more. Reach out to our expert team today.";
     const canonicalUrl = `${BASE_URL}/contact-us`;
 
     return {
@@ -46,7 +46,7 @@ export async function generateMetadata() {
             '@type': 'ContactPage',
             'mainEntity': {
                 '@type': 'Organization',
-                'name': 'Brave Dev World CY Ltd',
+                'name': 'AmazHub CY Ltd',
                 'url': BASE_URL,
                 'contactPoint': {
                     '@type': 'ContactPoint',
@@ -68,7 +68,7 @@ const ContactUsPage = () => {
                     <div className="mx-auto text-center max-w-3xl space-y-8">
                         <h1>Contact Us Now</h1>
                         <p>
-                            Get in touch with members of Brave Dev World team. Any inquiries related to our mobile apps and web-development services, partnerships, career opportunities, and more.
+                            Get in touch with members of AmazHub team. Any inquiries related to our mobile apps and web-development services, partnerships, career opportunities, and more.
                         </p>
                         <div className="grid gap-8 grid-cols-2 max-w-xl mx-auto py-12">
                             <MemberSimon />

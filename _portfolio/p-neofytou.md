@@ -15,7 +15,7 @@ url: "https://www.neofytoullc.com"
 extra: ""
 description: "P. NEOFYTOU AND ASSOCIATES LLC is a law firm that provides legal services and solutions to clients in Cyprus and around the world. Their website, built with WordPress, offers easy access to their range of legal services, including corporate law, banking and finance, real estate, and more. If you're in need of legal assistance, P. NEOFYTOU AND ASSOCIATES LLC is a trusted and reliable source of expertise and advice."
 ---
-Brave Dev World proudly developed the digital presence for P. NEOFYTOU AND ASSOCIATES LLC, a prestigious law firm based in Cyprus. Specializing in a wide range of legal services, the firm's expertise covers corporate law, commercial law, immigration law, property law, and more. Our goal was to create a WordPress website that not only showcases the firm’s professional image but also provides easy access to their comprehensive legal services.
+AmazHub proudly developed the digital presence for P. NEOFYTOU AND ASSOCIATES LLC, a prestigious law firm based in Cyprus. Specializing in a wide range of legal services, the firm's expertise covers corporate law, commercial law, immigration law, property law, and more. Our goal was to create a WordPress website that not only showcases the firm’s professional image but also provides easy access to their comprehensive legal services.
 
 ## Overview: P. NEOFYTOU AND ASSOCIATES LLC Website
 The website was crafted to mirror the law firm's commitment to excellence, professionalism, and client-centered services. By utilizing WordPress, we were able to deliver a site that is both user-friendly and reflective of the firm's high standards.
@@ -28,9 +28,9 @@ The website was crafted to mirror the law firm's commitment to excellence, profe
 ### The Outcome:
 The resulting website stands as a digital cornerstone for P. NEOFYTOU AND ASSOCIATES LLC, enhancing their online visibility and facilitating client engagement. It serves not only as a portal to the firm's services but also as a resource for legal knowledge and updates.
 
-### Brave Dev World’s Role:
-This project exemplifies Brave Dev World's capability in developing bespoke digital solutions for professional service providers. Through understanding the specific needs of the legal industry and the firm’s objectives, we delivered a solution that not only aligns with P. NEOFYTOU AND ASSOCIATES LLC’s values but also enhances their client service experience.
+### AmazHub’s Role:
+This project exemplifies AmazHub's capability in developing bespoke digital solutions for professional service providers. Through understanding the specific needs of the legal industry and the firm’s objectives, we delivered a solution that not only aligns with P. NEOFYTOU AND ASSOCIATES LLC’s values but also enhances their client service experience.
 
-For legal firms or any businesses seeking to establish or enhance their digital presence, Brave Dev World offers the expertise to create tailored solutions that meet your unique needs. Our approach involves a deep understanding of your industry and your firm’s goals, ensuring a final product that truly represents your brand and serves your audience.
+For legal firms or any businesses seeking to establish or enhance their digital presence, AmazHub offers the expertise to create tailored solutions that meet your unique needs. Our approach involves a deep understanding of your industry and your firm’s goals, ensuring a final product that truly represents your brand and serves your audience.
 
 Interested in developing a professional website or enhancing your digital strategy? Connect with us through our [contact page](https://vasilkoff.com/contact-us) to explore how we can support your objectives with our digital expertise. Let’s work together to build a digital presence that drives your business forward.

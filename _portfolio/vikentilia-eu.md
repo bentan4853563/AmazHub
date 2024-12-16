@@ -39,17 +39,17 @@ technologies:
 ---
 **Revolutionizing Cyprus Real Estate: Unveils VIKENTILIA with WordPress Brilliance**
 
-Explore the pinnacle of real estate excellence in Cyprus with VIKENTILIA, a Brave Dev World project meticulously crafted on the WordPress platform. Discover how this innovative solution, driven by top-notch web development and app development expertise, redefines the real estate market, offering unmatched experiences for both buyers and developers.
+Explore the pinnacle of real estate excellence in Cyprus with VIKENTILIA, a AmazHub project meticulously crafted on the WordPress platform. Discover how this innovative solution, driven by top-notch web development and app development expertise, redefines the real estate market, offering unmatched experiences for both buyers and developers.
 
 **Innovative Features for Effortless Real Estate Transactions:**
 
 1. **Dynamic Property Search:** VIKENTILIA offers a dynamic property search, leveraging advanced web development to ensure a seamless and responsive user experience.
 2. **Efficient Listing Management:** Developers benefit from efficient listing management powered by WordPress, streamlining the process of showcasing properties and attracting potential buyers.
-3. **Visual Appeal and Intuitive Interface:** The platform boasts a visually appealing design and an intuitive user interface, a testament to Brave Dev World's commitment to cutting-edge web development.
+3. **Visual Appeal and Intuitive Interface:** The platform boasts a visually appealing design and an intuitive user interface, a testament to AmazHub's commitment to cutting-edge web development.
 
 **Crafted with WordPress, Web, and App Development Expertise:**
 
-Brave Dev World harnesses the power of WordPress, complemented by top-tier web and app development, to create VIKENTILIA. This ensures not just a website but a dynamic, responsive real estate platform that sets a new standard in the industry.
+AmazHub harnesses the power of WordPress, complemented by top-tier web and app development, to create VIKENTILIA. This ensures not just a website but a dynamic, responsive real estate platform that sets a new standard in the industry.
 
 **Consolidated Real Estate Operations:**
 
@@ -57,4 +57,4 @@ VIKENTILIA, driven by advanced web and app development, empowers both buyers and
 
 **Commitment to Excellence in Web and App Development:**
 
-VIKENTILIA stands as a testament to Brave Dev World's unwavering commitment to innovation and excellence in web and app development. The platform exceeds expectations, providing a transformative solution for the Cyprus real estate market.
+VIKENTILIA stands as a testament to AmazHub's unwavering commitment to innovation and excellence in web and app development. The platform exceeds expectations, providing a transformative solution for the Cyprus real estate market.

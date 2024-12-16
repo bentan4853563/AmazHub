@@ -2,7 +2,7 @@
 date: "2024-03-22T00:00:00Z"
 title: "BOC Fintech Hackathon 4.0: Vasilkoff's Evolution"
 subtitle: "Charting Vasilkoff's Progress: October 6, 2023."
-description: "Brave Dev World at BOC Hackathon 4.0: Introducing innovative AI-driven live chat solutions for modern banking."
+description: "AmazHub at BOC Hackathon 4.0: Introducing innovative AI-driven live chat solutions for modern banking."
 picture: "/assets/blog/boc-hackathon-4-0.webp"
 time: "3 min"
 ---

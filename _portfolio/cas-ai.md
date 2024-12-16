@@ -37,7 +37,7 @@ technologies:
     - "Slim"
     - "Figma"
 ---
-Brave Dev World is proud to showcase CAS.AI, a project that encapsulates our web development expertise applied in the realm of AI-driven digital experiences. CAS.AI is developed to assist businesses in optimizing their online presence, leveraging a combination of advanced technologies to deliver a seamless and efficient digital platform.
+AmazHub is proud to showcase CAS.AI, a project that encapsulates our web development expertise applied in the realm of AI-driven digital experiences. CAS.AI is developed to assist businesses in optimizing their online presence, leveraging a combination of advanced technologies to deliver a seamless and efficient digital platform.
 
 ## Project Overview: CAS.AI
 CAS.AI represents our approach to integrating AI with web applications, providing a robust solution for businesses aiming to enhance their digital strategy. Through this platform, we've applied our comprehensive understanding of web development technologies and AI to create a product that stands out for its innovation and effectiveness.
@@ -52,9 +52,9 @@ Our development of CAS.AI utilized a wide array of technologies, each chosen for
 - **Development and Deployment**: Our use of Git, GitHub, and Heroku, along with a focus on WordPress for content management, facilitates efficient development cycles and deployment processes.
 
 ### Designed for Client Success
-At Brave Dev World, our projects, including CAS.AI, are developed with a clear focus on client success. We believe in creating solutions that not only meet the current needs of our clients but also anticipate future trends and opportunities. CAS.AI is a prime example of this philosophy, bringing together AI and web technologies to offer a competitive edge in the digital domain.
+At AmazHub, our projects, including CAS.AI, are developed with a clear focus on client success. We believe in creating solutions that not only meet the current needs of our clients but also anticipate future trends and opportunities. CAS.AI is a prime example of this philosophy, bringing together AI and web technologies to offer a competitive edge in the digital domain.
 
 ### Collaboration and Customization
 We understand that each business has unique needs. CAS.AI serves as a blueprint for how we can tailor AI and web development solutions to fit specific objectives. We invite businesses looking for customized web solutions to reach out to us. Let's discuss how we can bring your vision to life with the same level of dedication and expertise demonstrated in CAS.AI.
 
-For inquiries about developing a similar project or to learn more about our capabilities, please visit our [contact page](https://vasilkoff.com/contact-us). At Brave Dev World, we're committed to pushing the boundaries of web development and AI to create innovative solutions that drive business growth and digital transformation.
+For inquiries about developing a similar project or to learn more about our capabilities, please visit our [contact page](https://vasilkoff.com/contact-us). At AmazHub, we're committed to pushing the boundaries of web development and AI to create innovative solutions that drive business growth and digital transformation.

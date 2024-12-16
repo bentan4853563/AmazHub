@@ -30,8 +30,8 @@ PollCart enriches the e-commerce landscape by allowing users to integrate their 
 PollCart is specifically developed for the Shopify platform, ensuring seamless integration and a smooth user experience for both shoppers and retailers. Its functionality enhances the Shopify ecosystem, providing a novel tool that benefits the entire shopping journey.
 
 ### Empowering Retailers and Consumers Alike:
-PollCart signifies Brave Dev World's commitment to innovative e-commerce solutions. It's not just a tool for increasing sales; it's a platform that enriches the shopping experience by valuing the opinions of a shopper's personal network.
+PollCart signifies AmazHub's commitment to innovative e-commerce solutions. It's not just a tool for increasing sales; it's a platform that enriches the shopping experience by valuing the opinions of a shopper's personal network.
 
-Brave Dev World is dedicated to pushing the boundaries of e-commerce through solutions like PollCart. Our aim is to enhance online shopping platforms, making them more interactive, engaging, and aligned with consumer needs.
+AmazHub is dedicated to pushing the boundaries of e-commerce through solutions like PollCart. Our aim is to enhance online shopping platforms, making them more interactive, engaging, and aligned with consumer needs.
 
 For more information on integrating PollCart into your Shopify store or to discover more about our e-commerce solutions, we invite you to reach out through our [contact page](https://vasilkoff.com/contact-us). Let's transform the online shopping experience together, making every purchase a shared journey.

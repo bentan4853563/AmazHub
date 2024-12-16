@@ -14,7 +14,7 @@ url: "https://www.facebook.com/ABetterFlorist/"
 extra: "Project closed in 2022"
 description: "A Better Florist is a global network of online flower shops that offers a range of websites and a user-friendly experience for customers around the world."
 ---
-A Better Florist is a vivid illustration of Brave Dev World's capability to handle substantial AWS infrastructure for managing a multitude of WordPress and Magento websites under high load. Here's a comprehensive list showcasing the scope of our project, emphasizing the scale and diversity of the infrastructure we adeptly manage:
+A Better Florist is a vivid illustration of AmazHub's capability to handle substantial AWS infrastructure for managing a multitude of WordPress and Magento websites under high load. Here's a comprehensive list showcasing the scope of our project, emphasizing the scale and diversity of the infrastructure we adeptly manage:
 
 - abetterflorist.com
 - brisbaneblooms.com
@@ -131,4 +131,4 @@ A Better Florist is a vivid illustration of Brave Dev World's capability to hand
 - happyflowersfr.com
 - srilankablooms.com
 
-This project, now closed in 2022, showcased our technical strength in managing a significant number of websites on a large scale, primarily on AWS, with a smaller segment on Digital Ocean. The successful execution of this vast network stands as evidence of Brave Dev World's excellence in delivering complex web solutions and handling extensive digital ecosystems with high efficiency and reliability.
+This project, now closed in 2022, showcased our technical strength in managing a significant number of websites on a large scale, primarily on AWS, with a smaller segment on Digital Ocean. The successful execution of this vast network stands as evidence of AmazHub's excellence in delivering complex web solutions and handling extensive digital ecosystems with high efficiency and reliability.

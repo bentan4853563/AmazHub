@@ -2,7 +2,7 @@
 id: 3
 date: "2024-03-20T00:00:00Z"
 picture: "/assets/services/mobile-apps-development.webp"
-altImage: "Mobile Apps Development from Brave Dev World"
+altImage: "Mobile Apps Development from AmazHub"
 title: "Mobile Apps Development"
 subtitle: "Discover how our expertise in native iOS and Android applications and cross-platform development using Flutter can drive success in fintech, utilities, and games"
 description: "Accelerating Business Growth with Mobile Apps Development: From Idea to Success"

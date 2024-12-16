@@ -18,13 +18,13 @@ export default function Search() {
     return (
         <main>
             <Head>
-                <title>Search results on Brave Dev World website</title>
+                <title>Search results on AmazHub website</title>
                 <meta name="description" content="Search results on Vasilkoff.com website with Google Custom Search Engine" />
             </Head>
 
             <section className="relative overflow-hidden pt-14 mt-40 lg:pt-[100px]">
                 <Container className="heading relative z-[1] font-medium pb-10 text-lg leading-[30px]">
-                    <h1>Search results on Brave Dev World Website</h1>
+                    <h1>Search results on AmazHub Website</h1>
 
                     <form action='/'>
                         <input

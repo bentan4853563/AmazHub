@@ -1,18 +1,18 @@
 ---
 date: "2024-03-20T00:00:00Z"
 title: "Simon Papazov: A Leading Figure in Cyprus's mobile apps and web-development Industry"
-subtitle: "Managing Director of Brave Dev World CY Ltd"
-description: "Explore the journey of Simon Papazov, Managing Director of Brave Dev World CY Ltd. Discover his influence in the Cypriot tech industry and successful projects."
+subtitle: "Managing Director of AmazHub CY Ltd"
+description: "Explore the journey of Simon Papazov, Managing Director of AmazHub CY Ltd. Discover his influence in the Cypriot tech industry and successful projects."
 picture: "/assets/team/simon-papazov.webp"
 time: "1 min"
 ---
-Simon Papazov is the Managing Director of [Brave Dev World CY Ltd](https://vasilkoff.com), a full-stack mobile apps and web-development company based in Cyprus. Simon is a seasoned programmer with a special interest in Android Mobile Application Development. His influence in the Cypriot tech industry extends beyond his managerial role at Vasilkoff, with his notable successes in competitive platforms such as the [BOC HACKATHON FINTECH 3.0](/blog/boc-hackathon-fintech-3-0) and impressive contributions to various projects.
+Simon Papazov is the Managing Director of [AmazHub CY Ltd](https://vasilkoff.com), a full-stack mobile apps and web-development company based in Cyprus. Simon is a seasoned programmer with a special interest in Android Mobile Application Development. His influence in the Cypriot tech industry extends beyond his managerial role at Vasilkoff, with his notable successes in competitive platforms such as the [BOC HACKATHON FINTECH 3.0](/blog/boc-hackathon-fintech-3-0) and impressive contributions to various projects.
 
 > "Leadership and learning are indispensable to each other." - John F. Kennedy
 
 Simon is a living testament to the above quote. His commitment to constant learning and innovation has seen him rise to be a leading figure in the tech industry. 
 
-Simon's contribution to Brave Dev World and the tech world at large can be evidenced in a number of successful projects he managed or developed:
+Simon's contribution to AmazHub and the tech world at large can be evidenced in a number of successful projects he managed or developed:
 
 1. [Housekeeper World](/portfolio/housekeeperworld): A professional cleaning service platform in Cyprus, Housekeeper offers flexible packages through a user-friendly mobile application for iOS and Android. Simon's expertise in Android app development significantly contributed to the success of this project. 
 
@@ -22,7 +22,7 @@ Simon's contribution to Brave Dev World and the tech world at large can be evide
 
 4. [Calculator Lock](/portfolio/calculator-lock): This Android app, which has over 10M downloads, allows users to hide photos, videos, apps, and files using a disguised calculator icon for added privacy.
 
-Simon's leadership, paired with his technical expertise, was instrumental in securing a 2nd place finish at the BOC HACKATHON FINTECH 3.0. This achievement, in collaboration with Anastasia Sarlidou and Maxim Vasilkov, underscores the synergy and talent present within the Brave Dev World team.
+Simon's leadership, paired with his technical expertise, was instrumental in securing a 2nd place finish at the BOC HACKATHON FINTECH 3.0. This achievement, in collaboration with Anastasia Sarlidou and Maxim Vasilkov, underscores the synergy and talent present within the AmazHub team.
 
 > "The strength of the team is each individual member. The strength of each member is the team." - Phil Jackson
 

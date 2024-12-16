@@ -45,7 +45,7 @@ technologies:
     - "Netlify"
     - "Figma"
 ---
-Brave Dev World has developed Nubisreservation.com, a comprehensive platform designed to streamline the booking process for businesses. Utilizing advanced technologies such as Laravel, React.js, MySQL, and Stripe, Nubis offers a seamless experience for both businesses and their customers.
+AmazHub has developed Nubisreservation.com, a comprehensive platform designed to streamline the booking process for businesses. Utilizing advanced technologies such as Laravel, React.js, MySQL, and Stripe, Nubis offers a seamless experience for both businesses and their customers.
 
 ## Project Overview: Nubisreservation.com
 Nubisreservation.com aims to simplify the reservation management process by providing a robust online system that integrates effortlessly with businesses' existing operations.
@@ -61,7 +61,7 @@ Nubisreservation.com represents our commitment to using technology to solve real
 ### Future-Ready and Scalable Solutions
 Our approach to developing Nubisreservation.com was guided by the need for scalability and adaptability. As businesses grow and market demands evolve, the platform is designed to accommodate increasing loads and new functionalities.
 
-### A Testament to Brave Dev World's Expertise
+### A Testament to AmazHub's Expertise
 This project underscores our expertise in web and app development, showcasing our ability to integrate multiple technologies to deliver comprehensive solutions. Nubisreservation.com not only simplifies the booking process but also offers businesses a competitive edge through digital transformation.
 
-For businesses seeking to improve their reservation system or explore the potential of web and app development, Brave Dev World offers the experience and creativity needed to bring your vision to fruition. To learn more about our services or to discuss your project, please reach out through our [contact page](https://vasilkoff.com/contact-us). Let's collaborate to create digital solutions that drive your business forward.
+For businesses seeking to improve their reservation system or explore the potential of web and app development, AmazHub offers the experience and creativity needed to bring your vision to fruition. To learn more about our services or to discuss your project, please reach out through our [contact page](https://vasilkoff.com/contact-us). Let's collaborate to create digital solutions that drive your business forward.

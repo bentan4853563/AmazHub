@@ -2,7 +2,7 @@
 id: 4
 date: "2024-03-20T00:00:00Z"
 picture: "/assets/services/smart-contracts-development.webp"
-altImage: "Smart Contracts Development from Brave Dev World"
+altImage: "Smart Contracts Development from AmazHub"
 title: "Smart Contracts Development"
 subtitle: "Use Cases of Smart Contracts Development for Your Business"
 description: "Discover the transformative potential of Smart Contracts Development to revolutionize business processes and drive innovation across diverse industries."

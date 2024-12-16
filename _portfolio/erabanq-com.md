@@ -38,7 +38,7 @@ technologies:
     - "Slim"
     - "Figma"
 ---
-Brave Dev World proudly presents Erabanq, a fintech solution designed to streamline business transactions through a web platform developed using React.js, HTML, and CSS. Erabanq represents our effort to provide businesses with a cost-effective alternative for account-to-account payments, enabling them to gain a competitive edge by reducing payment processing fees.
+AmazHub proudly presents Erabanq, a fintech solution designed to streamline business transactions through a web platform developed using React.js, HTML, and CSS. Erabanq represents our effort to provide businesses with a cost-effective alternative for account-to-account payments, enabling them to gain a competitive edge by reducing payment processing fees.
 
 ## About Erabanq
 Erabanq is crafted to revolutionize the way businesses handle transactions, moving away from traditional expensive card schemes towards a more direct and economical payment processing method.
@@ -54,11 +54,11 @@ Erabanq is crafted to revolutionize the way businesses handle transactions, movi
 - **Enhanced User Experience**: The application’s interface, powered by React.js, provides a responsive and engaging environment for users to manage their transactions.
 
 ### Building for Efficiency and Economy
-Erabanq exemplifies Brave Dev World’s ability to combine technical expertise with practical business solutions. Our approach to this project was driven by the need to offer an innovative platform that not only meets but surpasses the expectations of our clients in the fintech sector.
+Erabanq exemplifies AmazHub’s ability to combine technical expertise with practical business solutions. Our approach to this project was driven by the need to offer an innovative platform that not only meets but surpasses the expectations of our clients in the fintech sector.
 
-### Brave Dev World: Your Partner in Fintech Innovation
+### AmazHub: Your Partner in Fintech Innovation
 The development of Erabanq is a testament to our commitment to delivering high-quality web solutions that cater to the evolving needs of the business community. We believe in leveraging the latest technologies to provide solutions that enhance operational efficiency and drive growth.
 
 We invite businesses seeking to enhance their transaction processes or those looking for custom web app solutions to reach out. Erabanq serves as a prime example of how we can help you achieve your financial and operational goals.
 
-For more information on how we can assist you with your web development needs or to learn more about our services, please visit our [contact page](https://vasilkoff.com/contact-us). At Brave Dev World, we’re dedicated to empowering businesses with the tools they need to succeed in today’s digital landscape.
+For more information on how we can assist you with your web development needs or to learn more about our services, please visit our [contact page](https://vasilkoff.com/contact-us). At AmazHub, we’re dedicated to empowering businesses with the tools they need to succeed in today’s digital landscape.

@@ -58,7 +58,7 @@ technologies:
     - "Slim"
     - "Figma"
 ---
-Brave Dev World is pleased to announce the launch of OKOK Agency, a bespoke actor-agency platform developed to enhance the casting experience in the entertainment industry. This project reflects our commitment to delivering tailored web development solutions that connect users seamlessly and allow talents to stand out effortlessly.
+AmazHub is pleased to announce the launch of OKOK Agency, a bespoke actor-agency platform developed to enhance the casting experience in the entertainment industry. This project reflects our commitment to delivering tailored web development solutions that connect users seamlessly and allow talents to stand out effortlessly.
 
 ## Project Overview: OKOK Agency
 OKOK Agency was created to bridge the gap between actors seeking opportunities and agencies looking for talent. By leveraging advanced web development technologies and custom design, we built a platform that simplifies the casting process.
@@ -74,9 +74,9 @@ OKOK Agency aims to revolutionize the traditional casting process by providing a
 ### Future-Ready and Adaptable
 Recognizing the ever-evolving nature of the entertainment industry, OKOK Agency is built to be scalable and adaptable. This ensures that the platform can accommodate future growth and changes, maintaining its relevance and effectiveness.
 
-### A Testament to Brave Dev World's Expertise
+### A Testament to AmazHub's Expertise
 The successful development of OKOK Agency underscores our expertise in creating digital solutions that address specific industry challenges. Our approach to integrating technology with user-centric design principles has resulted in a platform that significantly improves the casting experience.
 
-For those in the entertainment industry seeking to streamline their casting process, or for businesses exploring custom web development, Brave Dev World offers the technical acumen and innovative thinking necessary to bring your ideas to life.
+For those in the entertainment industry seeking to streamline their casting process, or for businesses exploring custom web development, AmazHub offers the technical acumen and innovative thinking necessary to bring your ideas to life.
 
 To learn more about our services or to discuss how we can assist with your project, please visit our [contact page](https://vasilkoff.com/contact-us). Let’s work together to develop digital solutions that propel your business forward.

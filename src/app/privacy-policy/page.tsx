@@ -5,7 +5,7 @@ import { BASE_URL } from '@/lib/constants';
 
 export const metadata = {
     title: 'Privacy Policy - Vasilkoff',
-    description: 'Learn how Brave Dev World prioritizes your privacy, detailing our practices regarding data collection and use.',
+    description: 'Learn how AmazHub prioritizes your privacy, detailing our practices regarding data collection and use.',
     alternates: { canonical: `${BASE_URL}/privacy-policy` },
 };
 
@@ -20,7 +20,7 @@ export default function PrivacyPolicyPage() {
 
                 <div className="space-y-4">
                     <p>
-                        Brave Dev World CY Ltd and Brave Dev World (referred to as "us", "we", or "our") operate the Vasilkoff.com website (hereinafter, the "Service"). We are deeply committed to safeguarding the privacy of our users. This document delineates the nature of the information we collect, our methods of handling it, and your rights concerning your data.
+                        AmazHub CY Ltd and AmazHub (referred to as "us", "we", or "our") operate the Vasilkoff.com website (hereinafter, the "Service"). We are deeply committed to safeguarding the privacy of our users. This document delineates the nature of the information we collect, our methods of handling it, and your rights concerning your data.
                     </p>
 
                     <p>

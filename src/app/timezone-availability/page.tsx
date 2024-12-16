@@ -27,7 +27,7 @@ export async function generateMetadata() {
             ],
         },
         creator: 'Maksym Vasylkov',
-        publisher: 'Brave Dev World',
+        publisher: 'AmazHub',
         metadataBase: new URL(BASE_URL),
         alternates: { canonical: canonicalUrl },
     }

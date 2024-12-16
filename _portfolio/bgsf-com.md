@@ -38,10 +38,10 @@ technologies:
     - "Slim"
     - "Figma"
 ---
-BG Staffing, a premier web platform created by Brave Dev World, embodies our excellence in the fintech and web app development sector. Through our collaboration with BG Staffing, we've built a robust online presence that leverages a suite of modern technologies to meet the complex demands of the staffing industry.
+BG Staffing, a premier web platform created by AmazHub, embodies our excellence in the fintech and web app development sector. Through our collaboration with BG Staffing, we've built a robust online presence that leverages a suite of modern technologies to meet the complex demands of the staffing industry.
 
 ## BG Staffing: A Technological Confluence for Workforce Solutions
-At the heart of BG Staffing's web presence is a carefully selected stack of technologies orchestrated to enhance user experience and operational efficiency. This project is a vivid demonstration of Brave Dev World's ability to integrate various technologies into a cohesive and functional system.
+At the heart of BG Staffing's web presence is a carefully selected stack of technologies orchestrated to enhance user experience and operational efficiency. This project is a vivid demonstration of AmazHub's ability to integrate various technologies into a cohesive and functional system.
 
 ### Advanced Tech Stack Behind BG Staffing:
 - **Backend Excellence with Laravel & NodeJS**: Employing the robust PHP framework Laravel, combined with the event-driven architecture of NodeJS, we crafted a solid backend that ensures reliability and scalability.
@@ -55,5 +55,5 @@ At the heart of BG Staffing's web presence is a carefully selected stack of tech
 ### Seamless Integration and Visual Design:
 With meticulous attention to detail, we have ensured that each technology serves its purpose to perfection. Figma played a crucial role in the visual design phase, allowing for a seamless transition from design to development. And with CSS3 and HTML5 at the core of our styling and markup, the visual fidelity of the design is second to none, providing a contemporary look and feel that resonates with users.
 
-BG Staffing's website stands as a testament to Brave Dev World's capability to handle large-scale, technology-driven projects with finesse. The platform not only enhances BG Staffing's digital footprint but also showcases our expertise in creating high-performance web applications tailored for the fintech industry.
+BG Staffing's website stands as a testament to AmazHub's capability to handle large-scale, technology-driven projects with finesse. The platform not only enhances BG Staffing's digital footprint but also showcases our expertise in creating high-performance web applications tailored for the fintech industry.
 

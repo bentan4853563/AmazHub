@@ -37,7 +37,7 @@ technologies:
     - "Slim"
     - "Figma"
 ---
-Paymentz stands as Brave Dev World's innovative contribution to the fintech world, embodying our comprehensive expertise in web, AI, and app development. Aimed at redefining the digital finance experience, Paymentz is crafted to facilitate seamless online transactions, ensuring businesses and individuals can manage their finances with ease and efficiency.
+Paymentz stands as AmazHub's innovative contribution to the fintech world, embodying our comprehensive expertise in web, AI, and app development. Aimed at redefining the digital finance experience, Paymentz is crafted to facilitate seamless online transactions, ensuring businesses and individuals can manage their finances with ease and efficiency.
 
 ## Overview: Paymentz - Simplifying Digital Finance
 Through the integration of Laravel for backend operations and React.js for a responsive frontend experience, Paymentz is designed to offer a streamlined platform for financial transactions.
@@ -53,9 +53,9 @@ The deployment of Laravel and React.js underscores our dedication to using state
 ### Empowering Businesses Worldwide:
 Paymentz is more than just a platform; it's a gateway to expanding global operations without the traditional banking hurdles. By offering efficient, secure, and customizable financial services, Paymentz propels businesses towards achieving their international objectives with unprecedented ease.
 
-### A Testament to Brave Dev World’s Fintech Prowess:
-Our development of Paymentz is a reflection of Brave Dev World's capability to blend cutting-edge technology with innovative financial solutions. It showcases our commitment to excellence and our ability to anticipate and meet the needs of the digital finance industry.
+### A Testament to AmazHub’s Fintech Prowess:
+Our development of Paymentz is a reflection of AmazHub's capability to blend cutting-edge technology with innovative financial solutions. It showcases our commitment to excellence and our ability to anticipate and meet the needs of the digital finance industry.
 
-Brave Dev World is at the forefront of transforming the fintech landscape through solutions like Paymentz. We're dedicated to enhancing the digital finance experience, offering platforms that combine efficiency, security, and user-friendly design.
+AmazHub is at the forefront of transforming the fintech landscape through solutions like Paymentz. We're dedicated to enhancing the digital finance experience, offering platforms that combine efficiency, security, and user-friendly design.
 
 To discover more about how Paymentz can transform your financial operations or to explore other fintech solutions, we invite you to connect with us through our [contact page](https://vasilkoff.com/contact-us). Let's navigate the future of finance together, leveraging technology to unlock new possibilities.

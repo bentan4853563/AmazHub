@@ -24,8 +24,8 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
   }
 
   const canonicalUrl = `${BASE_URL}/team/${slug}`;
-  const pageTitle = member.title || "Member of Brave Dev World";
-  const pageDescription = member.subtitle || "Learn more about our team members at Brave Dev World.";
+  const pageTitle = member.title || "Member of AmazHub";
+  const pageDescription = member.subtitle || "Learn more about our team members at AmazHub.";
   const memberImage = member.picture;
 
   return {
@@ -39,7 +39,7 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
       images: [
         {
           url: memberImage,
-          alt: `${member.title} - Brave Dev World`,
+          alt: `${member.title} - AmazHub`,
         },
       ],
     },
@@ -74,10 +74,10 @@ export default async function MemberPage({ params }: any) {
     jobTitle: member.subtitle || "Team Member",
     worksFor: {
       "@type": "Organization",
-      name: "Brave Dev World",
+      name: "AmazHub",
       url: BASE_URL,
     },
-    description: member.subtitle || "Learn more about our team members at Brave Dev World.",
+    description: member.subtitle || "Learn more about our team members at AmazHub.",
   };
 
   return (
