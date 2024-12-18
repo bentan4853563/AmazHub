@@ -4,25 +4,25 @@ import TeamMember from "./TeamMember";
 const memberList = [
   {
     name: "Leon Sandes",
-    position: "CEO",
+    position: "Lead Developer",
     email: "leonsandes816@gmail.com",
     picture: "/assets/team/leon-sandes.png",
   },
   {
     name: "Tony Wise",
-    position: "Managing Director",
+    position: "Back-End Developer",
     email: "hometown981220@gmail.com",
     picture: "/assets/team/tony-wise.png",
   },
   {
     name: "Haoqiang Lai",
-    position: "Systems Architect",
+    position: "Front-End Developer",
     email: "laihaoqiang34@gmail.com",
     picture: "/assets/team/haoqiang-lai.jpg",
   },
   {
     name: "Benjamin Tan",
-    position: "Technical Director",
+    position: "Blockchain Developer",
     email: "bentan010918@gmail.com",
     picture: "/assets/team/benjamin-tan.png",
   },

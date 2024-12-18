@@ -41,7 +41,7 @@ const TeamMember = ({
         {position}
       </p>
       {/* </Link> */}
-      <p className="text-sm font-bold">
+      {/* <p className="text-sm font-bold">
         <Link
           href={`mailto:${email}`}
           itemProp="email"
@@ -53,7 +53,7 @@ const TeamMember = ({
           <br />
           {email}
         </Link>
-      </p>
+      </p> */}
     </div>
   );
 };
