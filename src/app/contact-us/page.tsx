@@ -7,6 +7,7 @@ import Reviews from '@/app/_components/sections/Reviews';
 import Tabs from "@/app/_components/Tabs";
 import BugReportForm from "@/app/_components/BugReportForm";
 import { BASE_URL } from '@/lib/constants';
+import TeamMember from "../_components/sections/TeamMember";
 
 export async function generateMetadata() {
     const pageTitle = "Contact Us - AmazHub";
@@ -62,35 +63,49 @@ export async function generateMetadata() {
 
 const ContactUsPage = () => {
     return (
-        <main>
-            <section className="mt-40 bg-gradient-to-b from-white/40 to-transparent">
-                <Container>
-                    <div className="mx-auto text-center max-w-3xl space-y-8">
-                        <h1>Contact Us Now</h1>
-                        <p>
-                            Get in touch with members of AmazHub team. Any inquiries related to our mobile apps and web-development services, partnerships, career opportunities, and more.
-                        </p>
-                        <div className="grid gap-8 grid-cols-2 max-w-xl mx-auto py-12">
-                            <MemberSimon />
-                            <MemberMaxim />
-                        </div>
-                    </div>
-                    <Tabs
-                        tabs={[
-                            { label: 'Contact Us', content: <AIContacts />, id: 'contact' },
-                            { label: 'Report a Bug', content: <BugReportForm />, id: 'report' },
-                        ]}
-                    />
-                    <div className="mx-auto text-center">
-                        <h2 className="mb-6 text-3xl">Or Book your initial 30-minute online consultation</h2>
-                    </div>
-                </Container>
-                <div className="w-[110%] overflow-hidden">
+      <main>
+        <section className="mt-40 bg-gradient-to-b from-white/40 to-transparent">
+          <Container>
+            <div className="mx-auto text-center max-w-3xl space-y-8 mb-8">
+              <h1>Contact Us Now</h1>
+              <p>
+                Get in touch with members of AmazHub team. Any inquiries related
+                to our mobile apps and web-development services, partnerships,
+                career opportunities, and more.
+              </p>
+              {/* <div className="grid gap-8 grid-cols-2 max-w-xl mx-auto py-12">
+                <TeamMember
+                  name="Leon Sandes"
+                  position="Lead Developer"
+                  email="leonsandes816@gmail.com"
+                  //   link={item.link}
+                  picture="/assets/team/leon-sandes.png"
+                  keywords="Web app development, ios app development"
+                />
+              </div> */}
+            </div>
+            <Tabs
+              tabs={[
+                { label: "Contact Us", content: <AIContacts />, id: "contact" },
+                {
+                  label: "Report a Bug",
+                  content: <BugReportForm />,
+                  id: "report",
+                },
+              ]}
+            />
+            <div className="mx-auto text-center">
+              <h2 className="mb-6 text-3xl">
+                Or Book your initial 30-minute online consultation
+              </h2>
+            </div>
+          </Container>
+          {/* <div className="w-[110%] overflow-hidden">
                     <Calendly />
-                </div>
-                <Reviews />
-            </section>
-        </main>
+                </div> */}
+          <Reviews />
+        </section>
+      </main>
     );
 };
 
