@@ -24,7 +24,13 @@ const memberList = [
     name: "Benjamin Tan",
     position: "Blockchain Developer",
     email: "bentan010918@gmail.com",
-    picture: "/assets/team/benjamin-tan.png",
+    picture: "/assets/team/benjamin-tan.jpg",
+  },
+  {
+    name: "Aiyuki Kawano",
+    position: "Moderator",
+    email: "aiyukikawano@gmail.com",
+    picture: "/assets/team/aiyuki-kawano.png",
   },
 ];
 
@@ -36,7 +42,7 @@ export default function TeamMembers() {
           <h2>Meet Our Team</h2>
           <p>Ingenious Problem-Solvers</p>
         </div>
-        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-5">
           {memberList.map((item, index) => (
             <TeamMember
               name={item.name}
