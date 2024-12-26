@@ -11,7 +11,6 @@ const ResponsiveTimeTable = () => {
         const handleResize = () => {
             setIsMobile(window.innerWidth <= 768);
         };
-        console.log("window.innerWidth", window.innerWidth);
         handleResize();
         window.addEventListener('resize', handleResize);
 

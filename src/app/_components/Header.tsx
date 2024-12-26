@@ -13,7 +13,6 @@ const Header = (props: any) => {
 
   const [showMenu, setShowMenu] = useState(false);
   const toggleMenu = () => {
-    console.log("switch toggleMenu", showMenu);
     setShowMenu(!showMenu);
   };
 

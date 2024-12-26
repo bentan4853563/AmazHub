@@ -53,8 +53,6 @@ export default function AIContacts() {
         // Track event
         const trackData = { event: "lead_button", data: {'app_name': 'vasilkoff.com', name: nameRef.current.value, email: emailRef.current.value, mobile: mobileRef.current.value, message: message, city: cityRef.current.value }};
         trackEvent(trackData);
-        console.log("trackData", trackData);
-   
     }
 
 

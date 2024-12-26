@@ -7,7 +7,6 @@ export default function CSE() {
 
     const renderCSE = () => {
         const cse = google.search.cse;
-        console.log("cse", cse);
         cse.element.render({
             div: 'cseSearchResults',
             tag: 'searchresults-only',

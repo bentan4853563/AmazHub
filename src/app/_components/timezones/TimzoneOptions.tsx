@@ -20,7 +20,6 @@ export const getTimeZoneLabel = (timeZone: string, date: Date = new Date()): str
     const localString = date.toLocaleTimeString('en-us', { timeZone, hour12: false, timeZoneName: 'shortGeneric' });
     const match = localString.match(/(?<=\d{2}:\d{2}:\d{2}\s).*$/);
     const timeZoneString = match ? match[0] : "Etc";
-    //console.log("timeZoneString", match, localString);
     return timeZoneString;
 };
 

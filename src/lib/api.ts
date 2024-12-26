@@ -22,7 +22,6 @@ export function getBlogBySlug(slug: string) {
 
 export function getPortfolioBySlug(slug: string) {
   const realSlug = slug.replace(/\.md$/, "");
-  //console.log("realSlug", realSlug);
   const fullPath = join(portfolioDirectory, `${realSlug}.md`);
   if (!fs.existsSync(fullPath)) {
     return null;

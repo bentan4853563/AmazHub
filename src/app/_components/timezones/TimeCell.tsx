@@ -25,11 +25,7 @@ const TimeCell: React.FC<TimeCellProps> = ({ hour, timezone }) => {
             hourPlace = (currentHour+23)%24;
         }
     }
-    //console.log("localHour [currentHour hourPlace] currentMinutes timezone.offset", localHour, '[',currentHour, hourPlace,']', currentMinutes, timezone.offset);
-
     const isCurrentTime = Math.floor(localHour) === hourPlace;
-    // console.log("isCurrentTime", isCurrentTime);
-    
 
     const getColorForHour = (): string => {
         if (localHour >= hourSettings.workingHours.start && localHour < hourSettings.workingHours.end) {

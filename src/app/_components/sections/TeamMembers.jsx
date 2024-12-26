@@ -27,8 +27,8 @@ const memberList = [
     picture: "/assets/team/benjamin-tan.jpg",
   },
   {
-    name: "Aiyuki Kawano",
-    position: "Moderator",
+    name: "Aiyuki K.",
+    position: "Humnan Resoureces",
     email: "aiyukikawano@gmail.com",
     picture: "/assets/team/aiyuki-kawano.png",
   },
