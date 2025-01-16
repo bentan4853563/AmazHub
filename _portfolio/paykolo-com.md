@@ -61,4 +61,4 @@ The development of Paykolo underscores AmazHub's commitment to leveraging techno
 
 For businesses and individuals seeking a reliable and efficient online banking solution, Paykolo represents a significant leap forward. AmazHub continues to explore and develop digital solutions that drive progress and efficiency in various industries.
 
-To learn more about how Paykolo can transform your financial operations or to discuss a potential project, please reach out to us via our [contact page](https://vasilkoff.com/contact-us). Let's innovate together and redefine what's possible in the digital world.
+To learn more about how Paykolo can transform your financial operations or to discuss a potential project, please reach out to us via our [contact page](https://amazhub.net/contact-us). Let's innovate together and redefine what's possible in the digital world.

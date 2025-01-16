@@ -6,7 +6,7 @@ function realSlug(slug) {
 }
 
 module.exports = {
-  siteUrl: 'https://vasilkoff.com',
+  siteUrl: 'https://amazhub.net',
   generateRobotsTxt: true,
   sitemapSize: 7000,
   generateIndexSitemap: false,

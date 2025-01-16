@@ -36,4 +36,4 @@ At AmazHub, we believe in the power of customized web development to address the
 
 We invite businesses looking to enhance their online presence or develop specialized web solutions to reach out. Our experience with the ClarusApex project demonstrates our capacity to deliver high-quality, impactful web development services.
 
-For inquiries or to discuss how we can support your web development needs, please visit our [contact page](https://vasilkoff.com/contact-us). AmazHub is committed to leveraging our technical expertise and industry insights to help your business thrive in the digital marketplace.
+For inquiries or to discuss how we can support your web development needs, please visit our [contact page](https://amazhub.net/contact-us). AmazHub is committed to leveraging our technical expertise and industry insights to help your business thrive in the digital marketplace.

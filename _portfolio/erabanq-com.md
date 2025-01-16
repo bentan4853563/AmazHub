@@ -61,4 +61,4 @@ The development of Erabanq is a testament to our commitment to delivering high-q
 
 We invite businesses seeking to enhance their transaction processes or those looking for custom web app solutions to reach out. Erabanq serves as a prime example of how we can help you achieve your financial and operational goals.
 
-For more information on how we can assist you with your web development needs or to learn more about our services, please visit our [contact page](https://vasilkoff.com/contact-us). At AmazHub, we’re dedicated to empowering businesses with the tools they need to succeed in today’s digital landscape.
+For more information on how we can assist you with your web development needs or to learn more about our services, please visit our [contact page](https://amazhub.net/contact-us). At AmazHub, we’re dedicated to empowering businesses with the tools they need to succeed in today’s digital landscape.

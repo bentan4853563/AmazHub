@@ -37,4 +37,4 @@ At AmazHub, we understand that each business has unique digital requirements. Th
 
 We encourage businesses seeking to elevate their digital presence or develop bespoke web solutions to reach out. Our experience with Cbay Rent A Car showcases our capacity to handle projects of varying complexities and deliver results that exceed expectations.
 
-For inquiries about developing a similar project or to explore how we can assist in achieving your business objectives, please visit our [contact page](https://vasilkoff.com/contact-us). At AmazHub, we are dedicated to leveraging our web development expertise to support your business's success in the digital marketplace.
+For inquiries about developing a similar project or to explore how we can assist in achieving your business objectives, please visit our [contact page](https://amazhub.net/contact-us). At AmazHub, we are dedicated to leveraging our web development expertise to support your business's success in the digital marketplace.

@@ -36,4 +36,4 @@ Coingage Wallet is a reflection of AmazHub's commitment to delivering tailored w
 
 For potential customers interested in developing their own cryptocurrency exchange, Coingage Wallet serves as a showcase of what AmazHub can achieve. It illustrates our framework and development capabilities, highlighting how we can assist in bringing your vision to life.
 
-To learn more about our services or discuss how we can assist in developing a customized cryptocurrency exchange platform, we invite you to reach out through our [contact page](https://vasilkoff.com/contact-us). At AmazHub, we are dedicated to providing comprehensive and secure web solutions that meet the evolving needs of our clients.
+To learn more about our services or discuss how we can assist in developing a customized cryptocurrency exchange platform, we invite you to reach out through our [contact page](https://amazhub.net/contact-us). At AmazHub, we are dedicated to providing comprehensive and secure web solutions that meet the evolving needs of our clients.

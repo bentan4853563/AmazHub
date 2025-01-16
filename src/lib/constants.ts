@@ -7,7 +7,7 @@ export const MAIN_MENU = [
   { title: "Contact Us", link: "/contact-us", type:'link' },
 ];
 
-export const BASE_URL = "https://vasilkoff.com";
+export const BASE_URL = "https://amazhub.net";
 
 export const TOOLS_LINKS = [
   
@@ -77,7 +77,7 @@ export const CONTACT_US_JSON_LD = {
   "@type": "ContactPage",
   "name": "Contact AmazHub",
   "description": "This page contains contact details for AmazHub",
-  "url": "https://vasilkoff.com/contact-us",
+  "url": "https://amazhub.net/contact-us",
   "mainEntity": {
       "@type": "Organization",
       "name": "AmazHub",
@@ -92,7 +92,7 @@ export const CONTACT_US_JSON_LD = {
       },
       "email": "maxim@vasilkoff.com",
       "telephone": "+35799169229",
-      "url": "https://vasilkoff.com",
+      "url": "https://amazhub.net",
       "sameAs": [
           "https://www.facebook.com/vasilkoff.software",
           "https://www.instagram.com/vasilkoff"

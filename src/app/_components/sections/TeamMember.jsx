@@ -2,6 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { BsEnvelopeAt } from "react-icons/bs";
+import India_Flag from '../../../../public/assets/team/India_Flag.png'
 //import { EnvelopeAt } from "react-bootstrap-icons";
 
 const TeamMember = ({
@@ -28,15 +29,15 @@ const TeamMember = ({
           height={200}
           src={picture}
           alt={`Photo of ${name}, ${keywords}`}
-          className="w-full h-full rounded-3xl object-cover object-top grayscale transition duration-200 group-hover:grayscale-0"
+          className="w-full h-full rounded-3xl object-cover object-top transition duration-200"
         />
       </div>
-      <h2
-        className="mt-5 lg:mt-0 pt-2 pb-2 text-2xl font-bold text-black lg:text-md transition duration-500 group-hover:text-secondary"
+      <span
+        className="flex items-center justify-center gap-2 mt-5 lg:mt-0 pt-2 pb-2 text-2xl font-bold text-black lg:text-md transition duration-500 group-hover:text-secondary"
         itemProp="name"
       >
-        {name}
-      </h2>
+        {name}{position == "Marketing Manager" && <Image src={India_Flag} className="w-8" />}
+      </span>
       <p className="text-sm font-bold" itemProp="jobTitle">
         {position}
       </p>

@@ -60,4 +60,4 @@ At AmazHub, we're dedicated to providing solutions that enhance online experienc
 
 **Engage with Us:**
 
-Interested in developing a similar web application or enhancing your online service offerings? Visit our [contact page](https://vasilkoff.com/contact-us) to start a conversation about your project needs.
+Interested in developing a similar web application or enhancing your online service offerings? Visit our [contact page](https://amazhub.net/contact-us) to start a conversation about your project needs.

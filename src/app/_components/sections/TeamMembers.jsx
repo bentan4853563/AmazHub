@@ -2,36 +2,48 @@ import Container from "../Container";
 import TeamMember from "./TeamMember";
 
 const memberList = [
+  // {
+  //   name: "Aziz Amirul",
+  //   position: "Project Manger",
+  //   email: "",
+  //   picture: "/assets/team/pm.jpeg",
+  // },
   {
     name: "Leon Sandes",
     position: "Lead Developer",
     email: "leonsandes816@gmail.com",
-    picture: "/assets/team/leon-sandes.png",
+    picture: "/assets/team/leon-sandes.jpg",
   },
   {
     name: "Tony Wise",
-    position: "Back-End Developer",
+    position: "React Native Developer",
     email: "hometown981220@gmail.com",
     picture: "/assets/team/tony-wise.png",
   },
   {
     name: "Haoqiang Lai",
-    position: "Front-End Developer",
+    position: "Web Developer",
     email: "laihaoqiang34@gmail.com",
     picture: "/assets/team/haoqiang-lai.jpg",
   },
   {
     name: "Benjamin Tan",
-    position: "Blockchain Developer",
+    position: "Backend Developer",
     email: "bentan010918@gmail.com",
     picture: "/assets/team/benjamin-tan.jpg",
   },
   {
-    name: "Aiyuki K.",
-    position: "Humnan Resoureces",
-    email: "aiyukikawano@gmail.com",
-    picture: "/assets/team/aiyuki-kawano.png",
+    name: "Sagar", // Added India flag emoji here
+    position: "Marketing Manager",
+    email: "",
+    picture: "/assets/team/Sagar_partner_india.jpeg",
   },
+  // {
+  //   name: "Aiyuki K.",
+  //   position: "Humnan Resoureces",
+  //   email: "aiyukikawano@gmail.com",
+  //   picture: "/assets/team/aiyuki-kawano.png",
+  // },
 ];
 
 export default function TeamMembers() {

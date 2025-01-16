@@ -43,4 +43,4 @@ Since its launch, Garantex Exchange has been positively received by the cryptocu
 
 Garantex Exchange exemplifies our commitment to creating tailored digital solutions. For businesses seeking to develop their cryptocurrency exchange or enhance their digital offerings, AmazHub offers the expertise and experience necessary to bring your vision to life.
 
-To learn more about our services or discuss potential projects, we encourage you to visit our [contact page](https://vasilkoff.com/contact-us). At AmazHub, we're dedicated to leveraging our technical proficiency to support your business objectives in the digital landscape.
+To learn more about our services or discuss potential projects, we encourage you to visit our [contact page](https://amazhub.net/contact-us). At AmazHub, we're dedicated to leveraging our technical proficiency to support your business objectives in the digital landscape.

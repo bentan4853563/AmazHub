@@ -8,7 +8,7 @@ time: "1 min"
 ---
 Anastasia Sarlidou's story is one of genuine passion for artificial intelligence (AI) and machine learning (ML). A dedicated programmer and a Bachelor of "Human Centered AI Engineering" from the Denmark University of Technology, Sarlidou is a driving force behind some of the most exciting AI initiatives at AmazHub.
 
-You can find Sarlidou's touch in projects such as [vasilkoff.info](/portfolio/vasilkoff-info) and [vasilkoff.com](https://vasilkoff.com), where she's the voice behind the AI chatbot and support form. Her ability to integrate AI and ML into various software applications adds a unique value to the projects she's involved in.
+You can find Sarlidou's touch in projects such as [vasilkoff.info](/portfolio/vasilkoff-info) and [vasilkoff.com](https://amazhub.net), where she's the voice behind the AI chatbot and support form. Her ability to integrate AI and ML into various software applications adds a unique value to the projects she's involved in.
 
 The [VoteMe App](/portfolio/voteme) is one such project. As a free, cross-platform Xamarin app, VoteMe allows users to upload their photos and participate in a fun and entertaining voting game. Sarlidou's contribution to this project showcases her adeptness at applying AI and ML algorithms to create engaging and dynamic experiences for users.
 

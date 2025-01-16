@@ -35,4 +35,4 @@ Our team’s expertise in mobile app development is evident in the Aquatopper ap
 ### User-Centric Design and Functionality
 The Aquatopper app is a reflection of AmazHub’s dedication to creating mobile apps that resonate with users' needs. By focusing on the practicalities of pool maintenance, we ensure that our applications provide real-world solutions.
 
-Check out the [Aquatopper app on the App Store](https://apps.apple.com/us/app/aquatopper/id6446026946) to experience firsthand the ease of managing your pool with our React Native mobile app. For a broader view of our capabilities and other projects that harness similar technologies, visit the AmazHub [portfolio](https://vasilkoff.com/our-projects).
+Check out the [Aquatopper app on the App Store](https://apps.apple.com/us/app/aquatopper/id6446026946) to experience firsthand the ease of managing your pool with our React Native mobile app. For a broader view of our capabilities and other projects that harness similar technologies, visit the AmazHub [portfolio](https://amazhub.net/our-projects).

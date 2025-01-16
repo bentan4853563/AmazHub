@@ -79,4 +79,4 @@ The successful development of OKOK Agency underscores our expertise in creating 
 
 For those in the entertainment industry seeking to streamline their casting process, or for businesses exploring custom web development, AmazHub offers the technical acumen and innovative thinking necessary to bring your ideas to life.
 
-To learn more about our services or to discuss how we can assist with your project, please visit our [contact page](https://vasilkoff.com/contact-us). Let’s work together to develop digital solutions that propel your business forward.
+To learn more about our services or to discuss how we can assist with your project, please visit our [contact page](https://amazhub.net/contact-us). Let’s work together to develop digital solutions that propel your business forward.

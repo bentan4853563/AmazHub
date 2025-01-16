@@ -42,4 +42,4 @@ This project exemplifies AmazHub's expertise in leveraging modern technology sta
 
 "Living Cyprus" is more than just an app; it's a digital companion for both locals and visitors, offering a window into the unique lifestyle that Cyprus has to offer. We invite you to download "Living Cyprus" and embark on a journey of discovery.
 
-For those interested in creating similar digital experiences or seeking to bring their project ideas to life, AmazHub offers the skills and dedication necessary to achieve success. To learn more about our services or to discuss your project, please reach out through our [contact page](https://vasilkoff.com/contact-us). Let's explore how technology can enhance your business or personal project.
+For those interested in creating similar digital experiences or seeking to bring their project ideas to life, AmazHub offers the skills and dedication necessary to achieve success. To learn more about our services or to discuss your project, please reach out through our [contact page](https://amazhub.net/contact-us). Let's explore how technology can enhance your business or personal project.

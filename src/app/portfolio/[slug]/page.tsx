@@ -58,7 +58,7 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
           alt: article.title
         }
       ],
-      url: `https://vasilkoff.com/portfolio/${slug}`
+      url: `https://amazhub.net/portfolio/${slug}`
     },
   };
 }

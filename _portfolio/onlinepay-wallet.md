@@ -34,4 +34,4 @@ This project underscores our commitment to leveraging the latest technologies an
 
 For businesses and entrepreneurs looking to develop native mobile applications or explore other digital solutions, AmazHub offers the expertise and creativity needed to turn your vision into reality. Our approach is centered on understanding your needs and delivering solutions that not only solve problems but also drive growth and success.
 
-To learn more about our mobile app development services or to discuss your project, please visit our [contact page](https://vasilkoff.com/contact-us). Let's collaborate to create mobile applications that elevate your business and provide value to your users.
+To learn more about our mobile app development services or to discuss your project, please visit our [contact page](https://amazhub.net/contact-us). Let's collaborate to create mobile applications that elevate your business and provide value to your users.

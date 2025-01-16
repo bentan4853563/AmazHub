@@ -70,7 +70,7 @@ Implementing structured data can seem complex at first, but with practice, you'l
 
 ---
 
-While implementing structured data is something you can definitely do on your own, it might be helpful to have professionals on your side, especially if your website is complex or if you have specific SEO goals in mind. At [AmazHub](https://vasilkoff.com/), we have a team of experts who can help you implement structured data effectively to boost your search engine visibility and performance. Feel free to reach out to us for a consultation!
+While implementing structured data is something you can definitely do on your own, it might be helpful to have professionals on your side, especially if your website is complex or if you have specific SEO goals in mind. At [AmazHub](https://amazhub.net/), we have a team of experts who can help you implement structured data effectively to boost your search engine visibility and performance. Feel free to reach out to us for a consultation!
 
 ## Common Mistakes to Avoid When Implementing Structured Data
 

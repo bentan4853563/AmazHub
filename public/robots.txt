@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://vasilkoff.com
+Host: https://amazhub.net
 
 # Sitemaps
-Sitemap: https://vasilkoff.com/sitemap.xml
+Sitemap: https://amazhub.net/sitemap.xml

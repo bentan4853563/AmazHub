@@ -58,4 +58,4 @@ Our development of Paymentz is a reflection of AmazHub's capability to blend cut
 
 AmazHub is at the forefront of transforming the fintech landscape through solutions like Paymentz. We're dedicated to enhancing the digital finance experience, offering platforms that combine efficiency, security, and user-friendly design.
 
-To discover more about how Paymentz can transform your financial operations or to explore other fintech solutions, we invite you to connect with us through our [contact page](https://vasilkoff.com/contact-us). Let's navigate the future of finance together, leveraging technology to unlock new possibilities.
+To discover more about how Paymentz can transform your financial operations or to explore other fintech solutions, we invite you to connect with us through our [contact page](https://amazhub.net/contact-us). Let's navigate the future of finance together, leveraging technology to unlock new possibilities.

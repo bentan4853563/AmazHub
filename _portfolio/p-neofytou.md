@@ -33,4 +33,4 @@ This project exemplifies AmazHub's capability in developing bespoke digital solu
 
 For legal firms or any businesses seeking to establish or enhance their digital presence, AmazHub offers the expertise to create tailored solutions that meet your unique needs. Our approach involves a deep understanding of your industry and your firm’s goals, ensuring a final product that truly represents your brand and serves your audience.
 
-Interested in developing a professional website or enhancing your digital strategy? Connect with us through our [contact page](https://vasilkoff.com/contact-us) to explore how we can support your objectives with our digital expertise. Let’s work together to build a digital presence that drives your business forward.
+Interested in developing a professional website or enhancing your digital strategy? Connect with us through our [contact page](https://amazhub.net/contact-us) to explore how we can support your objectives with our digital expertise. Let’s work together to build a digital presence that drives your business forward.

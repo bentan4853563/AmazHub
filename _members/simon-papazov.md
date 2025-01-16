@@ -6,7 +6,7 @@ description: "Explore the journey of Simon Papazov, Managing Director of AmazHub
 picture: "/assets/team/simon-papazov.webp"
 time: "1 min"
 ---
-Simon Papazov is the Managing Director of [AmazHub CY Ltd](https://vasilkoff.com), a full-stack mobile apps and web-development company based in Cyprus. Simon is a seasoned programmer with a special interest in Android Mobile Application Development. His influence in the Cypriot tech industry extends beyond his managerial role at Vasilkoff, with his notable successes in competitive platforms such as the [BOC HACKATHON FINTECH 3.0](/blog/boc-hackathon-fintech-3-0) and impressive contributions to various projects.
+Simon Papazov is the Managing Director of [AmazHub CY Ltd](https://amazhub.net), a full-stack mobile apps and web-development company based in Cyprus. Simon is a seasoned programmer with a special interest in Android Mobile Application Development. His influence in the Cypriot tech industry extends beyond his managerial role at Vasilkoff, with his notable successes in competitive platforms such as the [BOC HACKATHON FINTECH 3.0](/blog/boc-hackathon-fintech-3-0) and impressive contributions to various projects.
 
 > "Leadership and learning are indispensable to each other." - John F. Kennedy
 

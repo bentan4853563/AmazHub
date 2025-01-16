@@ -41,4 +41,4 @@ The mobile applications developed by AmazHub for Naviaddress are a testament to 
 ### AmazHub: Pioneering Technological Solutions
 The development of the Naviaddress mobile apps highlights AmazHub's commitment to innovative projects that have the potential to revolutionize everyday tasks. We pride ourselves on our ability to turn visionary ideas into practical, user-friendly applications.
 
-For those interested in exploring how technology can enhance your business or project, AmazHub offers the experience and creativity needed to bring your ideas to life. To learn more about our services or to discuss your project, please reach out through our [contact page](https://vasilkoff.com/contact-us). Together, we can create digital solutions that make a difference.
+For those interested in exploring how technology can enhance your business or project, AmazHub offers the experience and creativity needed to bring your ideas to life. To learn more about our services or to discuss your project, please reach out through our [contact page](https://amazhub.net/contact-us). Together, we can create digital solutions that make a difference.

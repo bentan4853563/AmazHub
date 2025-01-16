@@ -41,4 +41,4 @@ By introducing a mobile app, Housekeeper has made it more convenient than ever f
 
 This project is a testament to AmazHub’s ability to leverage technology to solve business challenges and improve service delivery. We take pride in our ability to execute projects that not only fulfill our clients' requirements but also positively impact end-users.
 
-For businesses seeking to develop a mobile application or enhance their online service platform, AmazHub offers the expertise and experience necessary to turn your vision into reality. To learn more about our services or discuss your project, please reach out through our [contact page](https://vasilkoff.com/contact-us). Let’s work together to create technology solutions that drive success and satisfaction.
+For businesses seeking to develop a mobile application or enhance their online service platform, AmazHub offers the expertise and experience necessary to turn your vision into reality. To learn more about our services or discuss your project, please reach out through our [contact page](https://amazhub.net/contact-us). Let’s work together to create technology solutions that drive success and satisfaction.

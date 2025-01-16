@@ -57,4 +57,4 @@ At AmazHub, our projects, including CAS.AI, are developed with a clear focus on 
 ### Collaboration and Customization
 We understand that each business has unique needs. CAS.AI serves as a blueprint for how we can tailor AI and web development solutions to fit specific objectives. We invite businesses looking for customized web solutions to reach out to us. Let's discuss how we can bring your vision to life with the same level of dedication and expertise demonstrated in CAS.AI.
 
-For inquiries about developing a similar project or to learn more about our capabilities, please visit our [contact page](https://vasilkoff.com/contact-us). At AmazHub, we're committed to pushing the boundaries of web development and AI to create innovative solutions that drive business growth and digital transformation.
+For inquiries about developing a similar project or to learn more about our capabilities, please visit our [contact page](https://amazhub.net/contact-us). At AmazHub, we're committed to pushing the boundaries of web development and AI to create innovative solutions that drive business growth and digital transformation.

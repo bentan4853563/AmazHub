@@ -16,7 +16,7 @@ Maksym Vasylkov ([Maxim Vasilkov](https://intch.org/p/7738038)), alongside his t
 
 **Leading by Example**
 
-Delving into specialized domains, Vasilkov has established himself as an authority in blockchain technology. His expertise shines particularly in the realm of developing EVM (Ethereum Virtual Machine) smart contracts using Solidity, a programming language tailored for creating secure and efficient blockchain applications. Projects like [NFTTRX](https://vasilkoff.com/portfolio/nfttrx), [SMRT16](https://vasilkoff.com/portfolio/smrt16), [SMRTSGN](https://vasilkoff.com/portfolio/smrtsgn), [AI-Bridge](https://ai-bridge.vasilkoff.com), [2UL.top](https://2ul.top), and [smrtAI](https://vasilkoff.com/portfolio/smrtAI) stand as a testament to his proficiency and innovation, quietly revolutionizing the way we think about digital ownership, transaction security, and AI integration.
+Delving into specialized domains, Vasilkov has established himself as an authority in blockchain technology. His expertise shines particularly in the realm of developing EVM (Ethereum Virtual Machine) smart contracts using Solidity, a programming language tailored for creating secure and efficient blockchain applications. Projects like [NFTTRX](https://amazhub.net/portfolio/nfttrx), [SMRT16](https://amazhub.net/portfolio/smrt16), [SMRTSGN](https://amazhub.net/portfolio/smrtsgn), [AI-Bridge](https://ai-bridge.vasilkoff.com), [2UL.top](https://2ul.top), and [smrtAI](https://amazhub.net/portfolio/smrtAI) stand as a testament to his proficiency and innovation, quietly revolutionizing the way we think about digital ownership, transaction security, and AI integration.
 
 Worth to check also:
 - [F6s account](https://www.f6s.com/member/maximvasilkov)
@@ -27,15 +27,15 @@ Worth to check also:
 
 **Sharing Knowledge and Inspiring Others**
 
-Maxim's dedication to the tech community extends beyond project work; his contributions to literature, such as the programming book ["Objective-C Memory Management Essentials"](https://vasilkoff.com/book), reflect a commitment to sharing knowledge and fostering a culture of continuous learning and improvement within the tech sphere.
+Maxim's dedication to the tech community extends beyond project work; his contributions to literature, such as the programming book ["Objective-C Memory Management Essentials"](https://amazhub.net/book), reflect a commitment to sharing knowledge and fostering a culture of continuous learning and improvement within the tech sphere.
 
 **Recognition Through Collaboration and Competition**
 
-While modesty remains a core value, it's important to acknowledge the recognition the AmazHub team has earned through participation in prestigious technology hackathons. Our quiet dedication to innovation was highlighted when we secured 2nd place at the Fintech Hackathon 3.0 ([read more](https://vasilkoff.com/blog/boc-hackathon-fintech-3-0)) with a blockchain project, demonstrating our capability to develop cutting-edge financial technology solutions. Further participation in tech competitions, such as the BOC Hackathon 4.0 ([learn about our participation](https://vasilkoff.com/blog/boc-hackathon-4-0)) with an AI project, underscores our commitment to advancing technology across sectors.
+While modesty remains a core value, it's important to acknowledge the recognition the AmazHub team has earned through participation in prestigious technology hackathons. Our quiet dedication to innovation was highlighted when we secured 2nd place at the Fintech Hackathon 3.0 ([read more](https://amazhub.net/blog/boc-hackathon-fintech-3-0)) with a blockchain project, demonstrating our capability to develop cutting-edge financial technology solutions. Further participation in tech competitions, such as the BOC Hackathon 4.0 ([learn about our participation](https://amazhub.net/blog/boc-hackathon-4-0)) with an AI project, underscores our commitment to advancing technology across sectors.
 
 **AI-Bridge: Bridging Communication Gaps**
 
-Our recent achievement during the HackAdTech‘23 Hackathon in Limassol, Cyprus, where we developed AI-Bridge and earned 2nd prize ([discover more](https://vasilkoff.com/blog/hackadtech)), exemplifies our innovative approach to solving real-world challenges. AI-Bridge stands as a game changer in digital communication, seamlessly integrating AI Language Models or custom GPTs with popular social media chats like Facebook Messenger and Instagram DMs. This breakthrough tool serves as a crucial link, enhancing the way businesses interact with their clients through intelligent, efficient communication platforms.
+Our recent achievement during the HackAdTech‘23 Hackathon in Limassol, Cyprus, where we developed AI-Bridge and earned 2nd prize ([discover more](https://amazhub.net/blog/hackadtech)), exemplifies our innovative approach to solving real-world challenges. AI-Bridge stands as a game changer in digital communication, seamlessly integrating AI Language Models or custom GPTs with popular social media chats like Facebook Messenger and Instagram DMs. This breakthrough tool serves as a crucial link, enhancing the way businesses interact with their clients through intelligent, efficient communication platforms.
 
 
 **Loving Open-Source**

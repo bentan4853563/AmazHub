@@ -34,4 +34,4 @@ PollCart signifies AmazHub's commitment to innovative e-commerce solutions. It's
 
 AmazHub is dedicated to pushing the boundaries of e-commerce through solutions like PollCart. Our aim is to enhance online shopping platforms, making them more interactive, engaging, and aligned with consumer needs.
 
-For more information on integrating PollCart into your Shopify store or to discover more about our e-commerce solutions, we invite you to reach out through our [contact page](https://vasilkoff.com/contact-us). Let's transform the online shopping experience together, making every purchase a shared journey.
+For more information on integrating PollCart into your Shopify store or to discover more about our e-commerce solutions, we invite you to reach out through our [contact page](https://amazhub.net/contact-us). Let's transform the online shopping experience together, making every purchase a shared journey.

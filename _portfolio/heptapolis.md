@@ -46,4 +46,4 @@ The comprehensive solutions provided by AmazHub facilitated a successful ICO lau
 
 This project is a testament to AmazHub's capability to deliver end-to-end services for crypto ICOs. We are proud to have contributed to the success of Heptapolis.com and remain committed to supporting innovative blockchain projects.
 
-For organizations looking to embark on similar blockchain ventures, we invite you to learn more about our services and how we can assist in achieving your objectives. Please contact us through our [contact page](https://vasilkoff.com/contact-us) to discuss your project needs. At AmazHub, we're dedicated to harnessing the power of technology to drive your success.
+For organizations looking to embark on similar blockchain ventures, we invite you to learn more about our services and how we can assist in achieving your objectives. Please contact us through our [contact page](https://amazhub.net/contact-us) to discuss your project needs. At AmazHub, we're dedicated to harnessing the power of technology to drive your success.

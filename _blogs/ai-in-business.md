@@ -10,7 +10,7 @@ time: "3 min"
 
 In the fast-evolving landscape of the digital world, AI has taken a central role, promising not just innovation but also tangible economic benefits. For startups and SMEs that are often constrained by resources and are in dire need of ways to optimize and scale, understanding the economic potential of AI is not just beneficial – it's essential.
 
-![Why Invest in AI?](https://vasilkoff.com/assets/blog/ai-futuristic-graphic.webp)
+![Why Invest in AI?](https://amazhub.net/assets/blog/ai-futuristic-graphic.webp)
 
 **Why Invest in AI?**
 
@@ -40,7 +40,7 @@ An authentic AI-driven app is more than just an intricate sequence of code. It c
 
 2. **Custom-Trained Models**: Unique challenges often require bespoke AI solutions. By crafting tailored AI models with specialized datasets, businesses can cater to niche demands and offer a higher degree of precision.
 
-![AI Driven Apps](https://vasilkoff.com/assets/blog/ai-crystal-ball.webp)
+![AI Driven Apps](https://amazhub.net/assets/blog/ai-crystal-ball.webp)
 
 **Case Study: [SmartAIChats.com](https://smartaichats.com)**
 
@@ -52,7 +52,7 @@ The success of [SmartAIChats](https://smartaichats.com) underscores the transfor
   
 * **Minimizing Human Intervention**: By effectively addressing routine inquiries, the need for human intervention is greatly reduced, allowing teams to focus on more intricate and value-added tasks.
 
-Dive deeper into its architecture and functionality in our detailed [portfolio article](https://vasilkoff.com/portfolio/smartaichats-com).
+Dive deeper into its architecture and functionality in our detailed [portfolio article](https://amazhub.net/portfolio/smartaichats-com).
 
 **Get Your Free AI-Powered LiveChat Widget**
 
@@ -76,7 +76,7 @@ Stay informed: every chat interaction gets forwarded straight to your email, ens
 
 AI-driven apps are the future, not just because of their increasing ubiquity, but due to their potential in improving efficiency, engagement, and overall user experience. As AI continues to evolve, the possibilities seem endless.
 
-![AI-Powered Bots and Their Expanding Horizons](https://vasilkoff.com/assets/blog/ai-futuristic-city.webp)
+![AI-Powered Bots and Their Expanding Horizons](https://amazhub.net/assets/blog/ai-futuristic-city.webp)
 
 **AI-Powered Bots and Their Expanding Horizons**
 

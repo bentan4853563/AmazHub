@@ -43,4 +43,4 @@ The development of NutriBar highlights AmazHub's proficiency in creating digital
 
 NutriBar exemplifies how technology can be harnessed to promote healthier lifestyle choices. For those interested in exploring web and app development or seeking to bring their digital project to life, AmazHub offers the technical expertise and visionary approach necessary to achieve success.
 
-To learn more about our services or to discuss your project, please visit our [contact page](https://vasilkoff.com/contact-us). Let’s collaborate to develop innovative digital solutions that resonate with your audience and advance your goals.
+To learn more about our services or to discuss your project, please visit our [contact page](https://amazhub.net/contact-us). Let’s collaborate to develop innovative digital solutions that resonate with your audience and advance your goals.

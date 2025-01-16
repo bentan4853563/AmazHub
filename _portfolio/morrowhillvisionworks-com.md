@@ -61,4 +61,4 @@ This project underscores AmazHub's dedication to leveraging cutting-edge technol
 
 Morrow Hill VisionWorks is a testament to our ability to understand and address the unique challenges faced by businesses in the corporate real estate sector. It highlights our commitment to delivering bespoke solutions that contribute to our clients' success.
 
-For businesses seeking to enhance their online presence or develop specialized digital solutions, AmazHub offers the expertise and dedication necessary to achieve your goals. To learn more about how we can assist in your web development project, please reach out through our [contact page](https://vasilkoff.com/contact-us). Let’s work together to create digital platforms that support your business objectives.
+For businesses seeking to enhance their online presence or develop specialized digital solutions, AmazHub offers the expertise and dedication necessary to achieve your goals. To learn more about how we can assist in your web development project, please reach out through our [contact page](https://amazhub.net/contact-us). Let’s work together to create digital platforms that support your business objectives.

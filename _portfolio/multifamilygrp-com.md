@@ -58,4 +58,4 @@ This project exemplifies AmazHub's dedication to delivering high-quality web dev
 
 The Multifamily Group's website project is a testament to our expertise in creating digital platforms that support and enhance business operations. For businesses looking to develop a website or digital solution tailored to their industry-specific needs, AmazHub offers the technical knowledge and creative vision necessary to achieve success.
 
-To learn more about our services or to discuss your project, please contact us through our [contact page](https://vasilkoff.com/contact-us). Let’s work together to create digital solutions that drive your business forward.
+To learn more about our services or to discuss your project, please contact us through our [contact page](https://amazhub.net/contact-us). Let’s work together to create digital solutions that drive your business forward.

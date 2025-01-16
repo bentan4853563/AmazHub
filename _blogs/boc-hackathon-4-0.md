@@ -8,11 +8,11 @@ time: "3 min"
 ---
 ## Journey Through Hackathons
 
-At [Vasilkoff](https://vasilkoff.com/), our foray into the fintech realm has always been characterized by pioneering innovation. Over the years, we have been part of various fintech hackathons, each time pushing the boundaries of what's possible and setting new benchmarks in the fintech domain.
+At [Vasilkoff](https://amazhub.net/), our foray into the fintech realm has always been characterized by pioneering innovation. Over the years, we have been part of various fintech hackathons, each time pushing the boundaries of what's possible and setting new benchmarks in the fintech domain.
 
 ### BOC Hackathon Fintech 3.0: Making Headlines
 
-In the [BOC Hackathon Fintech 3.0](https://vasilkoff.com/blog/boc-hackathon-fintech-3-0) hosted from October 18th to 20th at the IDEA Innovation Center in Nicosia, our team showcased the 'SmartWallet', an innovative system that bridges traditional banking with electronic contracts. Represented by [Maxim Vasilkov](/team/maxim-vasilkov), [Anastasia Sarlidou](/team/anastasia-sarlidou), and [Simon Papazov](/team/simon-papazov), this innovation clinched the second prize with an award of €4,000!
+In the [BOC Hackathon Fintech 3.0](https://amazhub.net/blog/boc-hackathon-fintech-3-0) hosted from October 18th to 20th at the IDEA Innovation Center in Nicosia, our team showcased the 'SmartWallet', an innovative system that bridges traditional banking with electronic contracts. Represented by [Maxim Vasilkov](/team/maxim-vasilkov), [Anastasia Sarlidou](/team/anastasia-sarlidou), and [Simon Papazov](/team/simon-papazov), this innovation clinched the second prize with an award of €4,000!
 
 ### VC-Armor: The Future of AI in Banking at the BOC Fintech Hackathon 4.0
 
@@ -34,4 +34,4 @@ This remarkable feat at the BOC-4.0 hackathon epitomizes Vasilkoff's persistent 
 
 ---
 
-For deeper insights into how AI is revolutionizing various sectors, explore our article on [AI in Business](https://vasilkoff.com/blog/ai-in-business). Dive into the transformative potential of AI and how it's making waves across different industries.
+For deeper insights into how AI is revolutionizing various sectors, explore our article on [AI in Business](https://amazhub.net/blog/ai-in-business). Dive into the transformative potential of AI and how it's making waves across different industries.
