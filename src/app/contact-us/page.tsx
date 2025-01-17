@@ -15,49 +15,49 @@ export async function generateMetadata() {
     const canonicalUrl = `${BASE_URL}/contact-us`;
 
     return {
+      title: pageTitle,
+      description: pageDescription,
+      openGraph: {
         title: pageTitle,
         description: pageDescription,
-        openGraph: {
-            title: pageTitle,
-            description: pageDescription,
-            url: canonicalUrl,
-            type: 'website',
-            images: [
-                {
-                    url: `${BASE_URL}/images/contact-us-banner.jpg`,
-                    alt: 'Contact Us - Vasilkoff'
-                }
-            ],
-        },
-        twitter: {
-            card: 'summary_large_image',
-            title: pageTitle,
-            description: pageDescription,
-            image: `${BASE_URL}/images/contact-us-banner.jpg`,
-        },
-        additionalMetaTags: [
-            {
-                name: 'description',
-                content: pageDescription,
-            }
+        url: canonicalUrl,
+        type: "website",
+        images: [
+          {
+            url: `${BASE_URL}/images/letter-logo.png`,
+            alt: "Contact Us - AmazHub",
+          },
         ],
-        alternates: { canonical: canonicalUrl },
-        structuredData: {
-            '@context': 'https://schema.org',
-            '@type': 'ContactPage',
-            'mainEntity': {
-                '@type': 'Organization',
-                'name': 'AmazHub CY Ltd',
-                'url': BASE_URL,
-                'contactPoint': {
-                    '@type': 'ContactPoint',
-                    'telephone': '+35799169229',
-                    'contactType': 'Customer Service',
-                    'areaServed': 'Global',
-                    'availableLanguage': ['English', 'Ukrainian']
-                }
-            }
-        }
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: pageTitle,
+        description: pageDescription,
+        image: `${BASE_URL}/images/letter-logo.png`,
+      },
+      additionalMetaTags: [
+        {
+          name: "description",
+          content: pageDescription,
+        },
+      ],
+      alternates: { canonical: canonicalUrl },
+      structuredData: {
+        "@context": "https://schema.org",
+        "@type": "ContactPage",
+        mainEntity: {
+          "@type": "Organization",
+          name: "AmazHub CY Ltd",
+          url: BASE_URL,
+          contactPoint: {
+            "@type": "ContactPoint",
+            telephone: "+16469388727",
+            contactType: "Customer Service",
+            areaServed: "Global",
+            availableLanguage: ["English", "Ukrainian"],
+          },
+        },
+      },
     };
 }
 
@@ -94,11 +94,7 @@ const ContactUsPage = () => {
                 },
               ]}
             />
-            <div className="mx-auto text-center">
-              <h2 className="mb-6 text-3xl">
-                Or Book your initial 30-minute online consultation
-              </h2>
-            </div>
+
           </Container>
           {/* <div className="w-[110%] overflow-hidden">
                     <Calendly />

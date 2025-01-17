@@ -6,23 +6,19 @@ import Container from "./Container";
 import { FOOTER_MENU } from "@/lib/constants";
 import CSE from "./CSE";
 import {
-  BsCardText,
+  BsDiscord,
   BsEnvelopeAtFill,
-  BsGeoAlt,
   BsGeoAltFill,
-  BsInstagram,
-  BsTelegram,
   BsTelephoneFill,
-  BsWhatsapp,
+  BsTwitter,
 } from "react-icons/bs";
-import { FaFacebook } from "react-icons/fa";
 
 const Footer = () => {
   return (
     <>
       <CSE />
       <footer className="pt-14 bg-black mt-20 lg:pt-[100px] text-light text-base">
-        <Container className="grid gap-y-10 gap-x-12 sm:grid-cols-1 lg:grid-cols-3 max-w-6xl mx-auto pb-24">
+        <Container className="grid gap-y-10 gap-x-12 sm:grid-cols-1 lg:grid-cols-2 max-w-6xl mx-auto pb-24">
           <div className="h-card">
             <div className="py-4">
               <strong className="p-name">AmazHub (CY) Ltd</strong>: Expertise in
@@ -47,7 +43,7 @@ const Footer = () => {
           <div className="h-card">
             <ul className="flex flex-col gap-3 font-bold">
               <li className="mb-3 text-lg font-extrabold text-white">
-                Singapore
+                Malaysia
               </li>
             </ul>
             <ul>
@@ -55,8 +51,8 @@ const Footer = () => {
               <li className="transition hover:text-shadow ">
                 <BsTelephoneFill className="inline-block" />
                 &nbsp;
-                <a className="text-sm p-tel" href="tel:+6587654321">
-                  +6587654321
+                <a className="text-sm p-tel" href="tel:+16469388727">
+                  +16469388727
                 </a>
               </li>
               <li className="transition hover:text-shadow ">
@@ -64,75 +60,12 @@ const Footer = () => {
                 &nbsp;
                 <a
                   className="text-sm u-email"
-                  href="mailto:contact@amazhub.com"
+                  href="mailto:root@amazhub.net"
                   target="_blank"
                   rel="noopener noreferrer"
-                  aria-label="contact@amazhub.com (opens in a new tab)"
+                  aria-label="root@amazhub.net (opens in a new tab)"
                 >
-                  contact@amazhub.com
-                </a>
-              </li>
-              <li className="transition hover:text-shadow ">
-                <BsGeoAltFill className="inline-block" />
-                &nbsp;
-                <a
-                  className="text-sm p-adr"
-                  href="https://goo.gl/maps/example"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Visit Example Address, Singapore on Google Maps (opens in a new tab)"
-                >
-                  <span className="p-street-address">
-                    Singapore Changi Airport. 2nd flr
-                  </span>{" "}
-                  <span className="p-postal-code">039393</span>
-                </a>
-              </li>
-            </ul>
-          </div>
-
-          {/* New Malaysia Location */}
-          <div className="h-card">
-            <ul className="flex flex-col gap-3 font-bold">
-              <li className="mb-3 text-lg font-extrabold text-white">
-                Malaysia
-              </li>
-            </ul>
-            <ul>
-              <li className="p-org">AmazHub (CY) Ltd Reg. 12345678</li>
-              <li className="transition hover:text-shadow ">
-                <BsTelephoneFill className="inline-block" />
-                &nbsp;
-                <a className="text-sm p-tel" href="tel:+60123456789">
-                  +60123456789
-                </a>
-              </li>
-              <li className="transition hover:text-shadow ">
-                <BsEnvelopeAtFill className="inline-block" />
-                &nbsp;
-                <a
-                  className="text-sm u-email"
-                  href="mailto:info@vasilkoff.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="info@vasilkoff.com (opens in a new tab)"
-                >
-                  info@vasilkoff.com
-                </a>
-              </li>
-              <li className="transition hover:text-shadow ">
-                <BsGeoAltFill className="inline-block" />
-                &nbsp;
-                <a
-                  className="text-sm p-adr"
-                  href="https://goo.gl/maps/example"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Visit Example Address, Kuala Lumpur on Google Maps (opens in a new tab)"
-                >
-                  <span className="p-street-address">Example Address</span>,{" "}
-                  <span className="p-locality">Kuala Lumpur</span>{" "}
-                  <span className="p-postal-code">50000</span>
+                  root@amazhub.net
                 </a>
               </li>
             </ul>
@@ -158,22 +91,22 @@ const Footer = () => {
             <ul className="flex items-center gap-4 text-shadow">
               <li className="transition hover:text-light ">
                 <Link
-                  href="https://www.facebook.com/vasilkoff.software"
+                  href="https://x.com/amazhubroot "
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Facebook page (opens in a new tab)"
                 >
-                  <FaFacebook />
+                  <BsTwitter />
                 </Link>
               </li>
               <li className="transition hover:text-light ">
                 <Link
-                  href="https://www.instagram.com/vasilkoff/"
+                  href="https://discord.gg/xZqF5r2s"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Instagram page (opens in a new tab)"
                 >
-                  <BsInstagram />
+                  <BsDiscord />
                 </Link>
               </li>
               <li className="text-xs">v.{version}</li>
